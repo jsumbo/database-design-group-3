@@ -1,0 +1,5500 @@
+[{
+  "_id": {
+    "$oid": "67d08e567b52182550467c4c"
+  },
+  "Student_ID": "S147",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 68.26784098,
+  "Past_Exam_Scores": 86,
+  "Final_Exam_Score": 63,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c4d"
+  },
+  "Student_ID": "S136",
+  "Study_Hours_per_Week": 16,
+  "Attendance_Rate": 78.22292713,
+  "Past_Exam_Scores": 73,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c4e"
+  },
+  "Student_ID": "S209",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 87.52509624,
+  "Past_Exam_Scores": 74,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c4f"
+  },
+  "Student_ID": "S458",
+  "Study_Hours_per_Week": 27,
+  "Attendance_Rate": 92.07648302,
+  "Past_Exam_Scores": 99,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c50"
+  },
+  "Student_ID": "S078",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 98.65551746,
+  "Past_Exam_Scores": 63,
+  "Final_Exam_Score": 70,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c51"
+  },
+  "Student_ID": "S417",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 84.15919282,
+  "Past_Exam_Scores": 77,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c52"
+  },
+  "Student_ID": "S302",
+  "Study_Hours_per_Week": 24,
+  "Attendance_Rate": 89.38949444,
+  "Past_Exam_Scores": 95,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c53"
+  },
+  "Student_ID": "S009",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 50.68359824,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c54"
+  },
+  "Student_ID": "S044",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 80.8631856,
+  "Past_Exam_Scores": 94,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c55"
+  },
+  "Student_ID": "S331",
+  "Study_Hours_per_Week": 27,
+  "Attendance_Rate": 65.49684631,
+  "Past_Exam_Scores": 86,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c56"
+  },
+  "Student_ID": "S451",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 69.83246865,
+  "Past_Exam_Scores": 58,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c57"
+  },
+  "Student_ID": "S059",
+  "Study_Hours_per_Week": 11,
+  "Attendance_Rate": 92.10457075,
+  "Past_Exam_Scores": 95,
+  "Final_Exam_Score": 62,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c58"
+  },
+  "Student_ID": "S315",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 78.8815977,
+  "Past_Exam_Scores": 81,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c59"
+  },
+  "Student_ID": "S295",
+  "Study_Hours_per_Week": 18,
+  "Attendance_Rate": 66.60732063,
+  "Past_Exam_Scores": 64,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c5a"
+  },
+  "Student_ID": "S141",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 62.21765777,
+  "Past_Exam_Scores": 62,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c5b"
+  },
+  "Student_ID": "S274",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 55.03973015,
+  "Past_Exam_Scores": 71,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c5c"
+  },
+  "Student_ID": "S327",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 93.03160089,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 77,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c5d"
+  },
+  "Student_ID": "S413",
+  "Study_Hours_per_Week": 24,
+  "Attendance_Rate": 71.08519673,
+  "Past_Exam_Scores": 81,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c5e"
+  },
+  "Student_ID": "S452",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 97.70434683,
+  "Past_Exam_Scores": 55,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c5f"
+  },
+  "Student_ID": "S386",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 85.19730676,
+  "Past_Exam_Scores": 62,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c60"
+  },
+  "Student_ID": "S079",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 80.09676978,
+  "Past_Exam_Scores": 79,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c61"
+  },
+  "Student_ID": "S375",
+  "Study_Hours_per_Week": 36,
+  "Attendance_Rate": 97.22048628,
+  "Past_Exam_Scores": 93,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c62"
+  },
+  "Student_ID": "S384",
+  "Study_Hours_per_Week": 27,
+  "Attendance_Rate": 93.82220379,
+  "Past_Exam_Scores": 57,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c63"
+  },
+  "Student_ID": "S207",
+  "Study_Hours_per_Week": 20,
+  "Attendance_Rate": 89.07572409,
+  "Past_Exam_Scores": 92,
+  "Final_Exam_Score": 62,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c64"
+  },
+  "Student_ID": "S071",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 70.01502445,
+  "Past_Exam_Scores": 69,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c65"
+  },
+  "Student_ID": "S489",
+  "Study_Hours_per_Week": 27,
+  "Attendance_Rate": 99.02884001,
+  "Past_Exam_Scores": 85,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c66"
+  },
+  "Student_ID": "S066",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 78.98249672,
+  "Past_Exam_Scores": 96,
+  "Final_Exam_Score": 71,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c67"
+  },
+  "Student_ID": "S018",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 68.89252746,
+  "Past_Exam_Scores": 66,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c68"
+  },
+  "Student_ID": "S015",
+  "Study_Hours_per_Week": 27,
+  "Attendance_Rate": 79.25747662,
+  "Past_Exam_Scores": 67,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c69"
+  },
+  "Student_ID": "S155",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 50.91212407,
+  "Past_Exam_Scores": 52,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c6a"
+  },
+  "Student_ID": "S159",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 78.79992089,
+  "Past_Exam_Scores": 91,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c6b"
+  },
+  "Student_ID": "S368",
+  "Study_Hours_per_Week": 15,
+  "Attendance_Rate": 77.83607924,
+  "Past_Exam_Scores": 95,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c6c"
+  },
+  "Student_ID": "S104",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 96.20208796,
+  "Past_Exam_Scores": 83,
+  "Final_Exam_Score": 67,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c6d"
+  },
+  "Student_ID": "S329",
+  "Study_Hours_per_Week": 20,
+  "Attendance_Rate": 59.22314357,
+  "Past_Exam_Scores": 96,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c6e"
+  },
+  "Student_ID": "S397",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 93.053401,
+  "Past_Exam_Scores": 81,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c6f"
+  },
+  "Student_ID": "S097",
+  "Study_Hours_per_Week": 29,
+  "Attendance_Rate": 68.86429826,
+  "Past_Exam_Scores": 92,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c70"
+  },
+  "Student_ID": "S112",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 84.35827527,
+  "Past_Exam_Scores": 94,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c71"
+  },
+  "Student_ID": "S370",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 90.26574837,
+  "Past_Exam_Scores": 74,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c72"
+  },
+  "Student_ID": "S463",
+  "Study_Hours_per_Week": 13,
+  "Attendance_Rate": 73.71186544,
+  "Past_Exam_Scores": 77,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c73"
+  },
+  "Student_ID": "S060",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 88.44588707,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c74"
+  },
+  "Student_ID": "S041",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 81.96806785,
+  "Past_Exam_Scores": 67,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c75"
+  },
+  "Student_ID": "S216",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 65.80982911,
+  "Past_Exam_Scores": 92,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c76"
+  },
+  "Student_ID": "S430",
+  "Study_Hours_per_Week": 23,
+  "Attendance_Rate": 86.60922892,
+  "Past_Exam_Scores": 79,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c77"
+  },
+  "Student_ID": "S377",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 70.31961541,
+  "Past_Exam_Scores": 85,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c78"
+  },
+  "Student_ID": "S187",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 60.08652312,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c79"
+  },
+  "Student_ID": "S233",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 66.6407893,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c7a"
+  },
+  "Student_ID": "S166",
+  "Study_Hours_per_Week": 16,
+  "Attendance_Rate": 85.92286354,
+  "Past_Exam_Scores": 83,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c7b"
+  },
+  "Student_ID": "S419",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 76.48308393,
+  "Past_Exam_Scores": 82,
+  "Final_Exam_Score": 63,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c7c"
+  },
+  "Student_ID": "S033",
+  "Study_Hours_per_Week": 19,
+  "Attendance_Rate": 90.81928676,
+  "Past_Exam_Scores": 88,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c7d"
+  },
+  "Student_ID": "S185",
+  "Study_Hours_per_Week": 33,
+  "Attendance_Rate": 77.4301559,
+  "Past_Exam_Scores": 94,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c7e"
+  },
+  "Student_ID": "S057",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 89.82358878,
+  "Past_Exam_Scores": 84,
+  "Final_Exam_Score": 68,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c7f"
+  },
+  "Student_ID": "S372",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 80.15987011,
+  "Past_Exam_Scores": 63,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c80"
+  },
+  "Student_ID": "S395",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 88.69172616,
+  "Past_Exam_Scores": 80,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c81"
+  },
+  "Student_ID": "S211",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 91.25663383,
+  "Past_Exam_Scores": 85,
+  "Final_Exam_Score": 63,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c82"
+  },
+  "Student_ID": "S361",
+  "Study_Hours_per_Week": 29,
+  "Attendance_Rate": 62.6944282,
+  "Past_Exam_Scores": 56,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c83"
+  },
+  "Student_ID": "S382",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 92.40640477,
+  "Past_Exam_Scores": 51,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c84"
+  },
+  "Student_ID": "S389",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 66.79329286,
+  "Past_Exam_Scores": 70,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c85"
+  },
+  "Student_ID": "S387",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 95.53120018,
+  "Past_Exam_Scores": 66,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c86"
+  },
+  "Student_ID": "S380",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 81.66203875,
+  "Past_Exam_Scores": 97,
+  "Final_Exam_Score": 66,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c87"
+  },
+  "Student_ID": "S020",
+  "Study_Hours_per_Week": 36,
+  "Attendance_Rate": 60.25226643,
+  "Past_Exam_Scores": 80,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c88"
+  },
+  "Student_ID": "S445",
+  "Study_Hours_per_Week": 15,
+  "Attendance_Rate": 91.85394954,
+  "Past_Exam_Scores": 93,
+  "Final_Exam_Score": 67,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c89"
+  },
+  "Student_ID": "S099",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 93.41505535,
+  "Past_Exam_Scores": 88,
+  "Final_Exam_Score": 63,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c8a"
+  },
+  "Student_ID": "S448",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 86.07664306,
+  "Past_Exam_Scores": 60,
+  "Final_Exam_Score": 51,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c8b"
+  },
+  "Student_ID": "S408",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 87.08434721,
+  "Past_Exam_Scores": 73,
+  "Final_Exam_Score": 60,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c8c"
+  },
+  "Student_ID": "S089",
+  "Study_Hours_per_Week": 15,
+  "Attendance_Rate": 56.43741991,
+  "Past_Exam_Scores": 58,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c8d"
+  },
+  "Student_ID": "S049",
+  "Study_Hours_per_Week": 17,
+  "Attendance_Rate": 54.55010455,
+  "Past_Exam_Scores": 91,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c8e"
+  },
+  "Student_ID": "S194",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 80.30509405,
+  "Past_Exam_Scores": 62,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c8f"
+  },
+  "Student_ID": "S121",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 59.11419392,
+  "Past_Exam_Scores": 55,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c90"
+  },
+  "Student_ID": "S362",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 59.80565498,
+  "Past_Exam_Scores": 52,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c91"
+  },
+  "Student_ID": "S322",
+  "Study_Hours_per_Week": 16,
+  "Attendance_Rate": 60.63403922,
+  "Past_Exam_Scores": 76,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c92"
+  },
+  "Student_ID": "S499",
+  "Study_Hours_per_Week": 24,
+  "Attendance_Rate": 73.6605059,
+  "Past_Exam_Scores": 68,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c93"
+  },
+  "Student_ID": "S251",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 76.82406757,
+  "Past_Exam_Scores": 55,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c94"
+  },
+  "Student_ID": "S314",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 62.41132214,
+  "Past_Exam_Scores": 60,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c95"
+  },
+  "Student_ID": "S200",
+  "Study_Hours_per_Week": 27,
+  "Attendance_Rate": 96.64690335,
+  "Past_Exam_Scores": 65,
+  "Final_Exam_Score": 63,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c96"
+  },
+  "Student_ID": "S399",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 98.72736326,
+  "Past_Exam_Scores": 94,
+  "Final_Exam_Score": 66,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c97"
+  },
+  "Student_ID": "S072",
+  "Study_Hours_per_Week": 29,
+  "Attendance_Rate": 84.88337868,
+  "Past_Exam_Scores": 54,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c98"
+  },
+  "Student_ID": "S162",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 98.75335815,
+  "Past_Exam_Scores": 89,
+  "Final_Exam_Score": 71,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c99"
+  },
+  "Student_ID": "S440",
+  "Study_Hours_per_Week": 20,
+  "Attendance_Rate": 97.93135887,
+  "Past_Exam_Scores": 95,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c9a"
+  },
+  "Student_ID": "S139",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 94.98236986,
+  "Past_Exam_Scores": 84,
+  "Final_Exam_Score": 71,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c9b"
+  },
+  "Student_ID": "S449",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 80.52023335,
+  "Past_Exam_Scores": 52,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c9c"
+  },
+  "Student_ID": "S108",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 86.02580307,
+  "Past_Exam_Scores": 57,
+  "Final_Exam_Score": 60,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c9d"
+  },
+  "Student_ID": "S476",
+  "Study_Hours_per_Week": 23,
+  "Attendance_Rate": 65.72982784,
+  "Past_Exam_Scores": 91,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c9e"
+  },
+  "Student_ID": "S068",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 76.86317084,
+  "Past_Exam_Scores": 79,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467c9f"
+  },
+  "Student_ID": "S178",
+  "Study_Hours_per_Week": 11,
+  "Attendance_Rate": 54.36450898,
+  "Past_Exam_Scores": 62,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ca0"
+  },
+  "Student_ID": "S406",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 74.23891836,
+  "Past_Exam_Scores": 71,
+  "Final_Exam_Score": 60,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ca1"
+  },
+  "Student_ID": "S340",
+  "Study_Hours_per_Week": 15,
+  "Attendance_Rate": 79.37268021,
+  "Past_Exam_Scores": 83,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ca2"
+  },
+  "Student_ID": "S379",
+  "Study_Hours_per_Week": 16,
+  "Attendance_Rate": 54.34625075,
+  "Past_Exam_Scores": 87,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ca3"
+  },
+  "Student_ID": "S246",
+  "Study_Hours_per_Week": 33,
+  "Attendance_Rate": 60.22722966,
+  "Past_Exam_Scores": 83,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ca4"
+  },
+  "Student_ID": "S164",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 86.14480483,
+  "Past_Exam_Scores": 54,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ca5"
+  },
+  "Student_ID": "S008",
+  "Study_Hours_per_Week": 19,
+  "Attendance_Rate": 56.69260594,
+  "Past_Exam_Scores": 72,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ca6"
+  },
+  "Student_ID": "S051",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 77.37231534,
+  "Past_Exam_Scores": 79,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ca7"
+  },
+  "Student_ID": "S142",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 74.91238489,
+  "Past_Exam_Scores": 96,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ca8"
+  },
+  "Student_ID": "S394",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 67.25960724,
+  "Past_Exam_Scores": 96,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ca9"
+  },
+  "Student_ID": "S045",
+  "Study_Hours_per_Week": 13,
+  "Attendance_Rate": 99.02313625,
+  "Past_Exam_Scores": 91,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467caa"
+  },
+  "Student_ID": "S013",
+  "Study_Hours_per_Week": 23,
+  "Attendance_Rate": 87.49553747,
+  "Past_Exam_Scores": 88,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cab"
+  },
+  "Student_ID": "S085",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 77.43576546,
+  "Past_Exam_Scores": 97,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cac"
+  },
+  "Student_ID": "S300",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 87.21248259,
+  "Past_Exam_Scores": 75,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cad"
+  },
+  "Student_ID": "S438",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 71.10180298,
+  "Past_Exam_Scores": 88,
+  "Final_Exam_Score": 51,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cae"
+  },
+  "Student_ID": "S439",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 67.69356883,
+  "Past_Exam_Scores": 75,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467caf"
+  },
+  "Student_ID": "S012",
+  "Study_Hours_per_Week": 17,
+  "Attendance_Rate": 76.71731375,
+  "Past_Exam_Scores": 79,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cb0"
+  },
+  "Student_ID": "S366",
+  "Study_Hours_per_Week": 13,
+  "Attendance_Rate": 78.47217589,
+  "Past_Exam_Scores": 52,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cb1"
+  },
+  "Student_ID": "S180",
+  "Study_Hours_per_Week": 19,
+  "Attendance_Rate": 96.60071711,
+  "Past_Exam_Scores": 54,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cb2"
+  },
+  "Student_ID": "S486",
+  "Study_Hours_per_Week": 19,
+  "Attendance_Rate": 87.95179228,
+  "Past_Exam_Scores": 100,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cb3"
+  },
+  "Student_ID": "S431",
+  "Study_Hours_per_Week": 24,
+  "Attendance_Rate": 62.53653303,
+  "Past_Exam_Scores": 82,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cb4"
+  },
+  "Student_ID": "S160",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 95.86978065,
+  "Past_Exam_Scores": 58,
+  "Final_Exam_Score": 66,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cb5"
+  },
+  "Student_ID": "S353",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 94.87152049,
+  "Past_Exam_Scores": 74,
+  "Final_Exam_Score": 63,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cb6"
+  },
+  "Student_ID": "S265",
+  "Study_Hours_per_Week": 33,
+  "Attendance_Rate": 91.33994139,
+  "Past_Exam_Scores": 53,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cb7"
+  },
+  "Student_ID": "S152",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 52.78267447,
+  "Past_Exam_Scores": 77,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cb8"
+  },
+  "Student_ID": "S259",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 88.59409903,
+  "Past_Exam_Scores": 77,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cb9"
+  },
+  "Student_ID": "S429",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 63.32491967,
+  "Past_Exam_Scores": 62,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cba"
+  },
+  "Student_ID": "S014",
+  "Study_Hours_per_Week": 33,
+  "Attendance_Rate": 95.65828761,
+  "Past_Exam_Scores": 84,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cbb"
+  },
+  "Student_ID": "S482",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 54.33526059,
+  "Past_Exam_Scores": 61,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cbc"
+  },
+  "Student_ID": "S297",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 61.36978104,
+  "Past_Exam_Scores": 100,
+  "Final_Exam_Score": 66,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cbd"
+  },
+  "Student_ID": "S055",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 76.1801138,
+  "Past_Exam_Scores": 81,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cbe"
+  },
+  "Student_ID": "S280",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 89.50423186,
+  "Past_Exam_Scores": 67,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cbf"
+  },
+  "Student_ID": "S034",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 98.39868827,
+  "Past_Exam_Scores": 64,
+  "Final_Exam_Score": 67,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cc0"
+  },
+  "Student_ID": "S494",
+  "Study_Hours_per_Week": 33,
+  "Attendance_Rate": 83.49587323,
+  "Past_Exam_Scores": 100,
+  "Final_Exam_Score": 71,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cc1"
+  },
+  "Student_ID": "S163",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 74.53743896,
+  "Past_Exam_Scores": 74,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cc2"
+  },
+  "Student_ID": "S433",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 74.71369251,
+  "Past_Exam_Scores": 75,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cc3"
+  },
+  "Student_ID": "S028",
+  "Study_Hours_per_Week": 20,
+  "Attendance_Rate": 51.1092371,
+  "Past_Exam_Scores": 92,
+  "Final_Exam_Score": 51,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cc4"
+  },
+  "Student_ID": "S328",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 76.75348595,
+  "Past_Exam_Scores": 70,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cc5"
+  },
+  "Student_ID": "S355",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 90.03748857,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 67,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cc6"
+  },
+  "Student_ID": "S225",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 78.87431355,
+  "Past_Exam_Scores": 79,
+  "Final_Exam_Score": 51,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cc7"
+  },
+  "Student_ID": "S213",
+  "Study_Hours_per_Week": 17,
+  "Attendance_Rate": 61.7845873,
+  "Past_Exam_Scores": 87,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cc8"
+  },
+  "Student_ID": "S435",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 91.90534816,
+  "Past_Exam_Scores": 88,
+  "Final_Exam_Score": 68,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cc9"
+  },
+  "Student_ID": "S271",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 80.74751316,
+  "Past_Exam_Scores": 76,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cca"
+  },
+  "Student_ID": "S365",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 66.96356229,
+  "Past_Exam_Scores": 73,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ccb"
+  },
+  "Student_ID": "S186",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 77.44609899,
+  "Past_Exam_Scores": 81,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ccc"
+  },
+  "Student_ID": "S284",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 68.72176849,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ccd"
+  },
+  "Student_ID": "S019",
+  "Study_Hours_per_Week": 11,
+  "Attendance_Rate": 62.05424162,
+  "Past_Exam_Scores": 63,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cce"
+  },
+  "Student_ID": "S143",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 66.51742406,
+  "Past_Exam_Scores": 74,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ccf"
+  },
+  "Student_ID": "S299",
+  "Study_Hours_per_Week": 29,
+  "Attendance_Rate": 68.96528492,
+  "Past_Exam_Scores": 72,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cd0"
+  },
+  "Student_ID": "S090",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 66.50497567,
+  "Past_Exam_Scores": 64,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cd1"
+  },
+  "Student_ID": "S214",
+  "Study_Hours_per_Week": 19,
+  "Attendance_Rate": 81.68792819,
+  "Past_Exam_Scores": 56,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cd2"
+  },
+  "Student_ID": "S369",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 86.04065482,
+  "Past_Exam_Scores": 64,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cd3"
+  },
+  "Student_ID": "S402",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 78.288831,
+  "Past_Exam_Scores": 87,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cd4"
+  },
+  "Student_ID": "S344",
+  "Study_Hours_per_Week": 17,
+  "Attendance_Rate": 76.72279456,
+  "Past_Exam_Scores": 73,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cd5"
+  },
+  "Student_ID": "S480",
+  "Study_Hours_per_Week": 27,
+  "Attendance_Rate": 84.52801162,
+  "Past_Exam_Scores": 61,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cd6"
+  },
+  "Student_ID": "S279",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 95.93752611,
+  "Past_Exam_Scores": 75,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cd7"
+  },
+  "Student_ID": "S262",
+  "Study_Hours_per_Week": 27,
+  "Attendance_Rate": 78.27541737,
+  "Past_Exam_Scores": 86,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cd8"
+  },
+  "Student_ID": "S086",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 76.72117519,
+  "Past_Exam_Scores": 50,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cd9"
+  },
+  "Student_ID": "S061",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 53.31179889,
+  "Past_Exam_Scores": 98,
+  "Final_Exam_Score": 67,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cda"
+  },
+  "Student_ID": "S305",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 70.72522921,
+  "Past_Exam_Scores": 53,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cdb"
+  },
+  "Student_ID": "S414",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 56.61381056,
+  "Past_Exam_Scores": 64,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cdc"
+  },
+  "Student_ID": "S228",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 76.59287398,
+  "Past_Exam_Scores": 67,
+  "Final_Exam_Score": 62,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cdd"
+  },
+  "Student_ID": "S335",
+  "Study_Hours_per_Week": 19,
+  "Attendance_Rate": 67.46934995,
+  "Past_Exam_Scores": 54,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cde"
+  },
+  "Student_ID": "S074",
+  "Study_Hours_per_Week": 15,
+  "Attendance_Rate": 84.82507331,
+  "Past_Exam_Scores": 79,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cdf"
+  },
+  "Student_ID": "S459",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 92.32039247,
+  "Past_Exam_Scores": 61,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ce0"
+  },
+  "Student_ID": "S493",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 52.57979033,
+  "Past_Exam_Scores": 81,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ce1"
+  },
+  "Student_ID": "S367",
+  "Study_Hours_per_Week": 13,
+  "Attendance_Rate": 94.37302413,
+  "Past_Exam_Scores": 69,
+  "Final_Exam_Score": 62,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ce2"
+  },
+  "Student_ID": "S403",
+  "Study_Hours_per_Week": 33,
+  "Attendance_Rate": 99.26836561,
+  "Past_Exam_Scores": 90,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ce3"
+  },
+  "Student_ID": "S035",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 54.42041117,
+  "Past_Exam_Scores": 98,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ce4"
+  },
+  "Student_ID": "S119",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 55.24345833,
+  "Past_Exam_Scores": 98,
+  "Final_Exam_Score": 62,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ce5"
+  },
+  "Student_ID": "S003",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 69.64947245,
+  "Past_Exam_Scores": 58,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ce6"
+  },
+  "Student_ID": "S261",
+  "Study_Hours_per_Week": 13,
+  "Attendance_Rate": 79.92213506,
+  "Past_Exam_Scores": 79,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ce7"
+  },
+  "Student_ID": "S264",
+  "Study_Hours_per_Week": 16,
+  "Attendance_Rate": 79.95146824,
+  "Past_Exam_Scores": 71,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ce8"
+  },
+  "Student_ID": "S478",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 98.10493929,
+  "Past_Exam_Scores": 60,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ce9"
+  },
+  "Student_ID": "S465",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 67.57700806,
+  "Past_Exam_Scores": 96,
+  "Final_Exam_Score": 62,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cea"
+  },
+  "Student_ID": "S326",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 77.86526844,
+  "Past_Exam_Scores": 77,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ceb"
+  },
+  "Student_ID": "S298",
+  "Study_Hours_per_Week": 23,
+  "Attendance_Rate": 80.39471969,
+  "Past_Exam_Scores": 60,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cec"
+  },
+  "Student_ID": "S253",
+  "Study_Hours_per_Week": 19,
+  "Attendance_Rate": 72.85001096,
+  "Past_Exam_Scores": 79,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ced"
+  },
+  "Student_ID": "S223",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 76.9890531,
+  "Past_Exam_Scores": 81,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cee"
+  },
+  "Student_ID": "S189",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 54.39340556,
+  "Past_Exam_Scores": 52,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cef"
+  },
+  "Student_ID": "S124",
+  "Study_Hours_per_Week": 24,
+  "Attendance_Rate": 54.46021644,
+  "Past_Exam_Scores": 96,
+  "Final_Exam_Score": 51,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cf0"
+  },
+  "Student_ID": "S024",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 93.91103337,
+  "Past_Exam_Scores": 94,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cf1"
+  },
+  "Student_ID": "S457",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 58.10069389,
+  "Past_Exam_Scores": 90,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cf2"
+  },
+  "Student_ID": "S487",
+  "Study_Hours_per_Week": 33,
+  "Attendance_Rate": 86.20516646,
+  "Past_Exam_Scores": 68,
+  "Final_Exam_Score": 51,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cf3"
+  },
+  "Student_ID": "S130",
+  "Study_Hours_per_Week": 17,
+  "Attendance_Rate": 82.44114201,
+  "Past_Exam_Scores": 98,
+  "Final_Exam_Score": 62,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cf4"
+  },
+  "Student_ID": "S330",
+  "Study_Hours_per_Week": 20,
+  "Attendance_Rate": 64.97979559,
+  "Past_Exam_Scores": 65,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cf5"
+  },
+  "Student_ID": "S381",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 86.79523066,
+  "Past_Exam_Scores": 71,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cf6"
+  },
+  "Student_ID": "S101",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 79.86390411,
+  "Past_Exam_Scores": 73,
+  "Final_Exam_Score": 70,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cf7"
+  },
+  "Student_ID": "S016",
+  "Study_Hours_per_Week": 24,
+  "Attendance_Rate": 86.3060422,
+  "Past_Exam_Scores": 91,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cf8"
+  },
+  "Student_ID": "S023",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 60.36138245,
+  "Past_Exam_Scores": 93,
+  "Final_Exam_Score": 63,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cf9"
+  },
+  "Student_ID": "S091",
+  "Study_Hours_per_Week": 29,
+  "Attendance_Rate": 66.07913823,
+  "Past_Exam_Scores": 98,
+  "Final_Exam_Score": 60,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cfa"
+  },
+  "Student_ID": "S032",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 65.38886199,
+  "Past_Exam_Scores": 93,
+  "Final_Exam_Score": 67,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cfb"
+  },
+  "Student_ID": "S043",
+  "Study_Hours_per_Week": 16,
+  "Attendance_Rate": 95.15755293,
+  "Past_Exam_Scores": 65,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cfc"
+  },
+  "Student_ID": "S277",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 79.64814526,
+  "Past_Exam_Scores": 50,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cfd"
+  },
+  "Student_ID": "S268",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 61.36754915,
+  "Past_Exam_Scores": 85,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cfe"
+  },
+  "Student_ID": "S021",
+  "Study_Hours_per_Week": 19,
+  "Attendance_Rate": 62.57212198,
+  "Past_Exam_Scores": 73,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467cff"
+  },
+  "Student_ID": "S197",
+  "Study_Hours_per_Week": 29,
+  "Attendance_Rate": 92.536373,
+  "Past_Exam_Scores": 55,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d00"
+  },
+  "Student_ID": "S291",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 61.79530173,
+  "Past_Exam_Scores": 60,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d01"
+  },
+  "Student_ID": "S263",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 85.80895374,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d02"
+  },
+  "Student_ID": "S342",
+  "Study_Hours_per_Week": 23,
+  "Attendance_Rate": 85.70295999,
+  "Past_Exam_Scores": 98,
+  "Final_Exam_Score": 60,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d03"
+  },
+  "Student_ID": "S324",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 98.77706578,
+  "Past_Exam_Scores": 66,
+  "Final_Exam_Score": 71,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d04"
+  },
+  "Student_ID": "S120",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 86.8702603,
+  "Past_Exam_Scores": 52,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d05"
+  },
+  "Student_ID": "S333",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 71.33944527,
+  "Past_Exam_Scores": 55,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d06"
+  },
+  "Student_ID": "S077",
+  "Study_Hours_per_Week": 20,
+  "Attendance_Rate": 75.76180274,
+  "Past_Exam_Scores": 94,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d07"
+  },
+  "Student_ID": "S092",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 54.61452931,
+  "Past_Exam_Scores": 73,
+  "Final_Exam_Score": 60,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d08"
+  },
+  "Student_ID": "S339",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 91.82824066,
+  "Past_Exam_Scores": 64,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d09"
+  },
+  "Student_ID": "S084",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 51.59023407,
+  "Past_Exam_Scores": 74,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d0a"
+  },
+  "Student_ID": "S258",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 70.44775885,
+  "Past_Exam_Scores": 83,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d0b"
+  },
+  "Student_ID": "S477",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 90.37151259,
+  "Past_Exam_Scores": 63,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d0c"
+  },
+  "Student_ID": "S229",
+  "Study_Hours_per_Week": 17,
+  "Attendance_Rate": 53.33095562,
+  "Past_Exam_Scores": 85,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d0d"
+  },
+  "Student_ID": "S237",
+  "Study_Hours_per_Week": 18,
+  "Attendance_Rate": 93.93145577,
+  "Past_Exam_Scores": 81,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d0e"
+  },
+  "Student_ID": "S047",
+  "Study_Hours_per_Week": 29,
+  "Attendance_Rate": 81.83221608,
+  "Past_Exam_Scores": 51,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d0f"
+  },
+  "Student_ID": "S416",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 84.56109288,
+  "Past_Exam_Scores": 71,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d10"
+  },
+  "Student_ID": "S428",
+  "Study_Hours_per_Week": 18,
+  "Attendance_Rate": 63.18419013,
+  "Past_Exam_Scores": 90,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d11"
+  },
+  "Student_ID": "S252",
+  "Study_Hours_per_Week": 13,
+  "Attendance_Rate": 68.94107828,
+  "Past_Exam_Scores": 68,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d12"
+  },
+  "Student_ID": "S222",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 81.20507721,
+  "Past_Exam_Scores": 59,
+  "Final_Exam_Score": 60,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d13"
+  },
+  "Student_ID": "S390",
+  "Study_Hours_per_Week": 17,
+  "Attendance_Rate": 91.25536657,
+  "Past_Exam_Scores": 67,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d14"
+  },
+  "Student_ID": "S042",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 90.25223338,
+  "Past_Exam_Scores": 82,
+  "Final_Exam_Score": 68,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d15"
+  },
+  "Student_ID": "S332",
+  "Study_Hours_per_Week": 24,
+  "Attendance_Rate": 69.86590577,
+  "Past_Exam_Scores": 69,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d16"
+  },
+  "Student_ID": "S235",
+  "Study_Hours_per_Week": 11,
+  "Attendance_Rate": 84.68588037,
+  "Past_Exam_Scores": 88,
+  "Final_Exam_Score": 67,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d17"
+  },
+  "Student_ID": "S345",
+  "Study_Hours_per_Week": 19,
+  "Attendance_Rate": 74.05439742,
+  "Past_Exam_Scores": 61,
+  "Final_Exam_Score": 51,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d18"
+  },
+  "Student_ID": "S190",
+  "Study_Hours_per_Week": 33,
+  "Attendance_Rate": 56.94123867,
+  "Past_Exam_Scores": 89,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d19"
+  },
+  "Student_ID": "S349",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 66.71814057,
+  "Past_Exam_Scores": 65,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d1a"
+  },
+  "Student_ID": "S409",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 84.94229266,
+  "Past_Exam_Scores": 90,
+  "Final_Exam_Score": 63,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d1b"
+  },
+  "Student_ID": "S341",
+  "Study_Hours_per_Week": 16,
+  "Attendance_Rate": 64.70223396,
+  "Past_Exam_Scores": 84,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d1c"
+  },
+  "Student_ID": "S156",
+  "Study_Hours_per_Week": 23,
+  "Attendance_Rate": 84.84807312,
+  "Past_Exam_Scores": 74,
+  "Final_Exam_Score": 68,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d1d"
+  },
+  "Student_ID": "S241",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 99.8846308,
+  "Past_Exam_Scores": 98,
+  "Final_Exam_Score": 74,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d1e"
+  },
+  "Student_ID": "S011",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 84.58571986,
+  "Past_Exam_Scores": 80,
+  "Final_Exam_Score": 60,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d1f"
+  },
+  "Student_ID": "S313",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 95.63747314,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d20"
+  },
+  "Student_ID": "S126",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 61.66082058,
+  "Past_Exam_Scores": 98,
+  "Final_Exam_Score": 63,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d21"
+  },
+  "Student_ID": "S221",
+  "Study_Hours_per_Week": 11,
+  "Attendance_Rate": 94.98337226,
+  "Past_Exam_Scores": 91,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d22"
+  },
+  "Student_ID": "S192",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 55.83480321,
+  "Past_Exam_Scores": 89,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d23"
+  },
+  "Student_ID": "S496",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 79.41318785,
+  "Past_Exam_Scores": 67,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d24"
+  },
+  "Student_ID": "S017",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 87.8540601,
+  "Past_Exam_Scores": 88,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d25"
+  },
+  "Student_ID": "S175",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 76.49200116,
+  "Past_Exam_Scores": 55,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d26"
+  },
+  "Student_ID": "S232",
+  "Study_Hours_per_Week": 19,
+  "Attendance_Rate": 71.57640716,
+  "Past_Exam_Scores": 62,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d27"
+  },
+  "Student_ID": "S138",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 66.87234169,
+  "Past_Exam_Scores": 81,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d28"
+  },
+  "Student_ID": "S254",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 80.1978936,
+  "Past_Exam_Scores": 56,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d29"
+  },
+  "Student_ID": "S469",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 72.98407564,
+  "Past_Exam_Scores": 65,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d2a"
+  },
+  "Student_ID": "S027",
+  "Study_Hours_per_Week": 18,
+  "Attendance_Rate": 63.4336241,
+  "Past_Exam_Scores": 86,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d2b"
+  },
+  "Student_ID": "S360",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 77.58612976,
+  "Past_Exam_Scores": 99,
+  "Final_Exam_Score": 66,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d2c"
+  },
+  "Student_ID": "S432",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 81.65490317,
+  "Past_Exam_Scores": 62,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d2d"
+  },
+  "Student_ID": "S038",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 74.00229835,
+  "Past_Exam_Scores": 71,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d2e"
+  },
+  "Student_ID": "S154",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 52.58177389,
+  "Past_Exam_Scores": 58,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d2f"
+  },
+  "Student_ID": "S484",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 87.9196207,
+  "Past_Exam_Scores": 74,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d30"
+  },
+  "Student_ID": "S146",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 61.26663989,
+  "Past_Exam_Scores": 63,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d31"
+  },
+  "Student_ID": "S294",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 91.87453945,
+  "Past_Exam_Scores": 96,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d32"
+  },
+  "Student_ID": "S283",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 88.56233343,
+  "Past_Exam_Scores": 96,
+  "Final_Exam_Score": 72,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d33"
+  },
+  "Student_ID": "S488",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 81.86157899,
+  "Past_Exam_Scores": 95,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d34"
+  },
+  "Student_ID": "S434",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 78.66471891,
+  "Past_Exam_Scores": 71,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d35"
+  },
+  "Student_ID": "S039",
+  "Study_Hours_per_Week": 33,
+  "Attendance_Rate": 71.02678893,
+  "Past_Exam_Scores": 74,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d36"
+  },
+  "Student_ID": "S498",
+  "Study_Hours_per_Week": 27,
+  "Attendance_Rate": 77.79032907,
+  "Past_Exam_Scores": 67,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d37"
+  },
+  "Student_ID": "S234",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 86.52745684,
+  "Past_Exam_Scores": 61,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d38"
+  },
+  "Student_ID": "S073",
+  "Study_Hours_per_Week": 19,
+  "Attendance_Rate": 59.00336362,
+  "Past_Exam_Scores": 50,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d39"
+  },
+  "Student_ID": "S031",
+  "Study_Hours_per_Week": 16,
+  "Attendance_Rate": 91.5685745,
+  "Past_Exam_Scores": 72,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d3a"
+  },
+  "Student_ID": "S125",
+  "Study_Hours_per_Week": 11,
+  "Attendance_Rate": 76.7667782,
+  "Past_Exam_Scores": 72,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d3b"
+  },
+  "Student_ID": "S410",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 70.12750218,
+  "Past_Exam_Scores": 66,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d3c"
+  },
+  "Student_ID": "S053",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 95.52356392,
+  "Past_Exam_Scores": 62,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d3d"
+  },
+  "Student_ID": "S351",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 87.66231104,
+  "Past_Exam_Scores": 57,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d3e"
+  },
+  "Student_ID": "S391",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 68.15296061,
+  "Past_Exam_Scores": 79,
+  "Final_Exam_Score": 60,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d3f"
+  },
+  "Student_ID": "S257",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 74.3178741,
+  "Past_Exam_Scores": 81,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d40"
+  },
+  "Student_ID": "S181",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 66.03210961,
+  "Past_Exam_Scores": 62,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d41"
+  },
+  "Student_ID": "S165",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 91.04307366,
+  "Past_Exam_Scores": 60,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d42"
+  },
+  "Student_ID": "S461",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 57.73360704,
+  "Past_Exam_Scores": 57,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d43"
+  },
+  "Student_ID": "S354",
+  "Study_Hours_per_Week": 15,
+  "Attendance_Rate": 76.32892333,
+  "Past_Exam_Scores": 66,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d44"
+  },
+  "Student_ID": "S446",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 71.85966982,
+  "Past_Exam_Scores": 98,
+  "Final_Exam_Score": 62,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d45"
+  },
+  "Student_ID": "S447",
+  "Study_Hours_per_Week": 33,
+  "Attendance_Rate": 95.77568386,
+  "Past_Exam_Scores": 89,
+  "Final_Exam_Score": 69,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d46"
+  },
+  "Student_ID": "S455",
+  "Study_Hours_per_Week": 17,
+  "Attendance_Rate": 63.49556112,
+  "Past_Exam_Scores": 80,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d47"
+  },
+  "Student_ID": "S278",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 55.11063321,
+  "Past_Exam_Scores": 71,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d48"
+  },
+  "Student_ID": "S094",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 84.38923585,
+  "Past_Exam_Scores": 61,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d49"
+  },
+  "Student_ID": "S226",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 67.76812259,
+  "Past_Exam_Scores": 88,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d4a"
+  },
+  "Student_ID": "S069",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 73.00595795,
+  "Past_Exam_Scores": 74,
+  "Final_Exam_Score": 60,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d4b"
+  },
+  "Student_ID": "S450",
+  "Study_Hours_per_Week": 17,
+  "Attendance_Rate": 97.46533985,
+  "Past_Exam_Scores": 55,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d4c"
+  },
+  "Student_ID": "S026",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 52.34482339,
+  "Past_Exam_Scores": 52,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d4d"
+  },
+  "Student_ID": "S224",
+  "Study_Hours_per_Week": 27,
+  "Attendance_Rate": 71.93723377,
+  "Past_Exam_Scores": 92,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d4e"
+  },
+  "Student_ID": "S356",
+  "Study_Hours_per_Week": 17,
+  "Attendance_Rate": 98.94657178,
+  "Past_Exam_Scores": 57,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d4f"
+  },
+  "Student_ID": "S321",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 61.0048607,
+  "Past_Exam_Scores": 60,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d50"
+  },
+  "Student_ID": "S188",
+  "Study_Hours_per_Week": 13,
+  "Attendance_Rate": 84.22857739,
+  "Past_Exam_Scores": 100,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d51"
+  },
+  "Student_ID": "S083",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 67.38096072,
+  "Past_Exam_Scores": 86,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d52"
+  },
+  "Student_ID": "S240",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 78.65754246,
+  "Past_Exam_Scores": 76,
+  "Final_Exam_Score": 60,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d53"
+  },
+  "Student_ID": "S095",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 75.58285068,
+  "Past_Exam_Scores": 86,
+  "Final_Exam_Score": 63,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d54"
+  },
+  "Student_ID": "S289",
+  "Study_Hours_per_Week": 13,
+  "Attendance_Rate": 95.53430991,
+  "Past_Exam_Scores": 56,
+  "Final_Exam_Score": 60,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d55"
+  },
+  "Student_ID": "S115",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 51.52360764,
+  "Past_Exam_Scores": 92,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d56"
+  },
+  "Student_ID": "S325",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 72.9494494,
+  "Past_Exam_Scores": 93,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d57"
+  },
+  "Student_ID": "S172",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 85.54762394,
+  "Past_Exam_Scores": 97,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d58"
+  },
+  "Student_ID": "S441",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 59.21854603,
+  "Past_Exam_Scores": 99,
+  "Final_Exam_Score": 60,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d59"
+  },
+  "Student_ID": "S198",
+  "Study_Hours_per_Week": 33,
+  "Attendance_Rate": 87.29872628,
+  "Past_Exam_Scores": 73,
+  "Final_Exam_Score": 72,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d5a"
+  },
+  "Student_ID": "S103",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 76.8295323,
+  "Past_Exam_Scores": 62,
+  "Final_Exam_Score": 68,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d5b"
+  },
+  "Student_ID": "S282",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 82.56836055,
+  "Past_Exam_Scores": 63,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d5c"
+  },
+  "Student_ID": "S116",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 93.36074905,
+  "Past_Exam_Scores": 83,
+  "Final_Exam_Score": 66,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d5d"
+  },
+  "Student_ID": "S436",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 70.21907508,
+  "Past_Exam_Scores": 51,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d5e"
+  },
+  "Student_ID": "S460",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 97.76181564,
+  "Past_Exam_Scores": 57,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d5f"
+  },
+  "Student_ID": "S338",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 68.88629737,
+  "Past_Exam_Scores": 87,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d60"
+  },
+  "Student_ID": "S244",
+  "Study_Hours_per_Week": 20,
+  "Attendance_Rate": 88.92859695,
+  "Past_Exam_Scores": 89,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d61"
+  },
+  "Student_ID": "S048",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 77.74078043,
+  "Past_Exam_Scores": 84,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d62"
+  },
+  "Student_ID": "S006",
+  "Study_Hours_per_Week": 27,
+  "Attendance_Rate": 53.17559148,
+  "Past_Exam_Scores": 57,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d63"
+  },
+  "Student_ID": "S052",
+  "Study_Hours_per_Week": 23,
+  "Attendance_Rate": 72.54552237,
+  "Past_Exam_Scores": 62,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d64"
+  },
+  "Student_ID": "S470",
+  "Study_Hours_per_Week": 29,
+  "Attendance_Rate": 53.79667052,
+  "Past_Exam_Scores": 53,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d65"
+  },
+  "Student_ID": "S316",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 58.27566587,
+  "Past_Exam_Scores": 51,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d66"
+  },
+  "Student_ID": "S191",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 50.13554497,
+  "Past_Exam_Scores": 83,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d67"
+  },
+  "Student_ID": "S347",
+  "Study_Hours_per_Week": 27,
+  "Attendance_Rate": 88.26781405,
+  "Past_Exam_Scores": 64,
+  "Final_Exam_Score": 67,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d68"
+  },
+  "Student_ID": "S127",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 67.14634321,
+  "Past_Exam_Scores": 58,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d69"
+  },
+  "Student_ID": "S151",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 90.29324434,
+  "Past_Exam_Scores": 52,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d6a"
+  },
+  "Student_ID": "S157",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 99.86277674,
+  "Past_Exam_Scores": 83,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d6b"
+  },
+  "Student_ID": "S285",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 53.44607697,
+  "Past_Exam_Scores": 61,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d6c"
+  },
+  "Student_ID": "S310",
+  "Study_Hours_per_Week": 36,
+  "Attendance_Rate": 95.92273625,
+  "Past_Exam_Scores": 88,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d6d"
+  },
+  "Student_ID": "S270",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 64.39648082,
+  "Past_Exam_Scores": 53,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d6e"
+  },
+  "Student_ID": "S219",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 72.59743006,
+  "Past_Exam_Scores": 80,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d6f"
+  },
+  "Student_ID": "S173",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 59.97534637,
+  "Past_Exam_Scores": 75,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d70"
+  },
+  "Student_ID": "S145",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 50.37671816,
+  "Past_Exam_Scores": 53,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d71"
+  },
+  "Student_ID": "S249",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 87.73176459,
+  "Past_Exam_Scores": 84,
+  "Final_Exam_Score": 69,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d72"
+  },
+  "Student_ID": "S304",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 55.713365,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d73"
+  },
+  "Student_ID": "S371",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 99.4364391,
+  "Past_Exam_Scores": 79,
+  "Final_Exam_Score": 68,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d74"
+  },
+  "Student_ID": "S140",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 80.37776111,
+  "Past_Exam_Scores": 87,
+  "Final_Exam_Score": 69,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d75"
+  },
+  "Student_ID": "S423",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 70.2624044,
+  "Past_Exam_Scores": 99,
+  "Final_Exam_Score": 62,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d76"
+  },
+  "Student_ID": "S001",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 68.8369485,
+  "Past_Exam_Scores": 64,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d77"
+  },
+  "Student_ID": "S412",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 82.25270839,
+  "Past_Exam_Scores": 95,
+  "Final_Exam_Score": 76,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d78"
+  },
+  "Student_ID": "S056",
+  "Study_Hours_per_Week": 24,
+  "Attendance_Rate": 84.88209357,
+  "Past_Exam_Scores": 81,
+  "Final_Exam_Score": 67,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d79"
+  },
+  "Student_ID": "S030",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 73.81053484,
+  "Past_Exam_Scores": 75,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d7a"
+  },
+  "Student_ID": "S113",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 92.22203363,
+  "Past_Exam_Scores": 95,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d7b"
+  },
+  "Student_ID": "S150",
+  "Study_Hours_per_Week": 23,
+  "Attendance_Rate": 54.39438123,
+  "Past_Exam_Scores": 90,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d7c"
+  },
+  "Student_ID": "S218",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 84.14910317,
+  "Past_Exam_Scores": 100,
+  "Final_Exam_Score": 63,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d7d"
+  },
+  "Student_ID": "S111",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 56.65584643,
+  "Past_Exam_Scores": 100,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d7e"
+  },
+  "Student_ID": "S248",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 74.69907436,
+  "Past_Exam_Scores": 94,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d7f"
+  },
+  "Student_ID": "S067",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 67.07816052,
+  "Past_Exam_Scores": 59,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d80"
+  },
+  "Student_ID": "S481",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 76.06503337,
+  "Past_Exam_Scores": 72,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d81"
+  },
+  "Student_ID": "S239",
+  "Study_Hours_per_Week": 13,
+  "Attendance_Rate": 87.07304556,
+  "Past_Exam_Scores": 95,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d82"
+  },
+  "Student_ID": "S238",
+  "Study_Hours_per_Week": 16,
+  "Attendance_Rate": 74.77118132,
+  "Past_Exam_Scores": 62,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d83"
+  },
+  "Student_ID": "S096",
+  "Study_Hours_per_Week": 17,
+  "Attendance_Rate": 57.84888414,
+  "Past_Exam_Scores": 86,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d84"
+  },
+  "Student_ID": "S474",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 50.26269093,
+  "Past_Exam_Scores": 52,
+  "Final_Exam_Score": 51,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d85"
+  },
+  "Student_ID": "S495",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 52.20827189,
+  "Past_Exam_Scores": 93,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d86"
+  },
+  "Student_ID": "S106",
+  "Study_Hours_per_Week": 33,
+  "Attendance_Rate": 87.99777045,
+  "Past_Exam_Scores": 56,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d87"
+  },
+  "Student_ID": "S319",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 89.02478538,
+  "Past_Exam_Scores": 69,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d88"
+  },
+  "Student_ID": "S088",
+  "Study_Hours_per_Week": 13,
+  "Attendance_Rate": 94.71086314,
+  "Past_Exam_Scores": 64,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d89"
+  },
+  "Student_ID": "S286",
+  "Study_Hours_per_Week": 36,
+  "Attendance_Rate": 53.86605327,
+  "Past_Exam_Scores": 85,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d8a"
+  },
+  "Student_ID": "S158",
+  "Study_Hours_per_Week": 29,
+  "Attendance_Rate": 94.83051315,
+  "Past_Exam_Scores": 61,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d8b"
+  },
+  "Student_ID": "S466",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 70.63967753,
+  "Past_Exam_Scores": 56,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d8c"
+  },
+  "Student_ID": "S444",
+  "Study_Hours_per_Week": 17,
+  "Attendance_Rate": 53.41248527,
+  "Past_Exam_Scores": 91,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d8d"
+  },
+  "Student_ID": "S376",
+  "Study_Hours_per_Week": 19,
+  "Attendance_Rate": 57.05409244,
+  "Past_Exam_Scores": 69,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d8e"
+  },
+  "Student_ID": "S415",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 95.02861506,
+  "Past_Exam_Scores": 65,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d8f"
+  },
+  "Student_ID": "S247",
+  "Study_Hours_per_Week": 13,
+  "Attendance_Rate": 85.70320411,
+  "Past_Exam_Scores": 73,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d90"
+  },
+  "Student_ID": "S392",
+  "Study_Hours_per_Week": 18,
+  "Attendance_Rate": 51.71140554,
+  "Past_Exam_Scores": 67,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d91"
+  },
+  "Student_ID": "S169",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 91.92912794,
+  "Past_Exam_Scores": 87,
+  "Final_Exam_Score": 73,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d92"
+  },
+  "Student_ID": "S398",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 60.97552625,
+  "Past_Exam_Scores": 60,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d93"
+  },
+  "Student_ID": "S065",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 60.45653955,
+  "Past_Exam_Scores": 93,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d94"
+  },
+  "Student_ID": "S255",
+  "Study_Hours_per_Week": 18,
+  "Attendance_Rate": 75.11441737,
+  "Past_Exam_Scores": 59,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d95"
+  },
+  "Student_ID": "S293",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 59.31604397,
+  "Past_Exam_Scores": 55,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d96"
+  },
+  "Student_ID": "S202",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 60.2500905,
+  "Past_Exam_Scores": 77,
+  "Final_Exam_Score": 51,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d97"
+  },
+  "Student_ID": "S491",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 82.33324596,
+  "Past_Exam_Scores": 57,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d98"
+  },
+  "Student_ID": "S236",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 58.336538,
+  "Past_Exam_Scores": 51,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d99"
+  },
+  "Student_ID": "S364",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 79.75244899,
+  "Past_Exam_Scores": 93,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d9a"
+  },
+  "Student_ID": "S437",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 88.54556885,
+  "Past_Exam_Scores": 87,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d9b"
+  },
+  "Student_ID": "S063",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 81.04028422,
+  "Past_Exam_Scores": 93,
+  "Final_Exam_Score": 69,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d9c"
+  },
+  "Student_ID": "S290",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 56.14053909,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d9d"
+  },
+  "Student_ID": "S464",
+  "Study_Hours_per_Week": 36,
+  "Attendance_Rate": 67.2191866,
+  "Past_Exam_Scores": 69,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d9e"
+  },
+  "Student_ID": "S201",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 99.54647382,
+  "Past_Exam_Scores": 89,
+  "Final_Exam_Score": 67,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467d9f"
+  },
+  "Student_ID": "S133",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 86.84112377,
+  "Past_Exam_Scores": 99,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467da0"
+  },
+  "Student_ID": "S036",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 89.59089197,
+  "Past_Exam_Scores": 53,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467da1"
+  },
+  "Student_ID": "S346",
+  "Study_Hours_per_Week": 18,
+  "Attendance_Rate": 74.85059744,
+  "Past_Exam_Scores": 67,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467da2"
+  },
+  "Student_ID": "S122",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 78.1982546,
+  "Past_Exam_Scores": 54,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467da3"
+  },
+  "Student_ID": "S308",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 73.28500612,
+  "Past_Exam_Scores": 62,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467da4"
+  },
+  "Student_ID": "S418",
+  "Study_Hours_per_Week": 20,
+  "Attendance_Rate": 91.1291938,
+  "Past_Exam_Scores": 69,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467da5"
+  },
+  "Student_ID": "S080",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 61.1924533,
+  "Past_Exam_Scores": 99,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467da6"
+  },
+  "Student_ID": "S208",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 91.39704436,
+  "Past_Exam_Scores": 94,
+  "Final_Exam_Score": 73,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467da7"
+  },
+  "Student_ID": "S307",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 96.14801159,
+  "Past_Exam_Scores": 84,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467da8"
+  },
+  "Student_ID": "S029",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 74.90825933,
+  "Past_Exam_Scores": 89,
+  "Final_Exam_Score": 68,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467da9"
+  },
+  "Student_ID": "S479",
+  "Study_Hours_per_Week": 15,
+  "Attendance_Rate": 89.50067794,
+  "Past_Exam_Scores": 67,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467daa"
+  },
+  "Student_ID": "S177",
+  "Study_Hours_per_Week": 13,
+  "Attendance_Rate": 88.38897507,
+  "Past_Exam_Scores": 97,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dab"
+  },
+  "Student_ID": "S424",
+  "Study_Hours_per_Week": 29,
+  "Attendance_Rate": 74.8732447,
+  "Past_Exam_Scores": 82,
+  "Final_Exam_Score": 60,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dac"
+  },
+  "Student_ID": "S400",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 88.98793874,
+  "Past_Exam_Scores": 74,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dad"
+  },
+  "Student_ID": "S093",
+  "Study_Hours_per_Week": 24,
+  "Attendance_Rate": 74.0572697,
+  "Past_Exam_Scores": 53,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dae"
+  },
+  "Student_ID": "S076",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 93.71588024,
+  "Past_Exam_Scores": 52,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467daf"
+  },
+  "Student_ID": "S468",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 79.91430291,
+  "Past_Exam_Scores": 69,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467db0"
+  },
+  "Student_ID": "S312",
+  "Study_Hours_per_Week": 13,
+  "Attendance_Rate": 51.64233351,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467db1"
+  },
+  "Student_ID": "S148",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 74.39049004,
+  "Past_Exam_Scores": 83,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467db2"
+  },
+  "Student_ID": "S070",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 79.2383053,
+  "Past_Exam_Scores": 88,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467db3"
+  },
+  "Student_ID": "S040",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 89.2334132,
+  "Past_Exam_Scores": 62,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467db4"
+  },
+  "Student_ID": "S467",
+  "Study_Hours_per_Week": 18,
+  "Attendance_Rate": 85.24627748,
+  "Past_Exam_Scores": 60,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467db5"
+  },
+  "Student_ID": "S276",
+  "Study_Hours_per_Week": 18,
+  "Attendance_Rate": 86.3047793,
+  "Past_Exam_Scores": 59,
+  "Final_Exam_Score": 51,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467db6"
+  },
+  "Student_ID": "S227",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 69.57410551,
+  "Past_Exam_Scores": 80,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467db7"
+  },
+  "Student_ID": "S393",
+  "Study_Hours_per_Week": 16,
+  "Attendance_Rate": 91.53272533,
+  "Past_Exam_Scores": 95,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467db8"
+  },
+  "Student_ID": "S426",
+  "Study_Hours_per_Week": 27,
+  "Attendance_Rate": 55.32893651,
+  "Past_Exam_Scores": 82,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467db9"
+  },
+  "Student_ID": "S396",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 68.13789473,
+  "Past_Exam_Scores": 87,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dba"
+  },
+  "Student_ID": "S411",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 60.90115537,
+  "Past_Exam_Scores": 61,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dbb"
+  },
+  "Student_ID": "S405",
+  "Study_Hours_per_Week": 15,
+  "Attendance_Rate": 59.10535694,
+  "Past_Exam_Scores": 60,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dbc"
+  },
+  "Student_ID": "S205",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 86.07982754,
+  "Past_Exam_Scores": 90,
+  "Final_Exam_Score": 72,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dbd"
+  },
+  "Student_ID": "S050",
+  "Study_Hours_per_Week": 23,
+  "Attendance_Rate": 86.31985163,
+  "Past_Exam_Scores": 83,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dbe"
+  },
+  "Student_ID": "S350",
+  "Study_Hours_per_Week": 11,
+  "Attendance_Rate": 53.77516819,
+  "Past_Exam_Scores": 76,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dbf"
+  },
+  "Student_ID": "S454",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 74.1877471,
+  "Past_Exam_Scores": 88,
+  "Final_Exam_Score": 69,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dc0"
+  },
+  "Student_ID": "S025",
+  "Study_Hours_per_Week": 17,
+  "Attendance_Rate": 87.84995661,
+  "Past_Exam_Scores": 83,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dc1"
+  },
+  "Student_ID": "S144",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 96.68459119,
+  "Past_Exam_Scores": 58,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dc2"
+  },
+  "Student_ID": "S273",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 56.95580971,
+  "Past_Exam_Scores": 61,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dc3"
+  },
+  "Student_ID": "S421",
+  "Study_Hours_per_Week": 13,
+  "Attendance_Rate": 74.90453768,
+  "Past_Exam_Scores": 89,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dc4"
+  },
+  "Student_ID": "S058",
+  "Study_Hours_per_Week": 11,
+  "Attendance_Rate": 72.9673404,
+  "Past_Exam_Scores": 88,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dc5"
+  },
+  "Student_ID": "S359",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 70.39922477,
+  "Past_Exam_Scores": 95,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dc6"
+  },
+  "Student_ID": "S082",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 67.25413139,
+  "Past_Exam_Scores": 67,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dc7"
+  },
+  "Student_ID": "S206",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 52.4047322,
+  "Past_Exam_Scores": 62,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dc8"
+  },
+  "Student_ID": "S323",
+  "Study_Hours_per_Week": 23,
+  "Attendance_Rate": 75.75868412,
+  "Past_Exam_Scores": 52,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dc9"
+  },
+  "Student_ID": "S383",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 56.13884448,
+  "Past_Exam_Scores": 73,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dca"
+  },
+  "Student_ID": "S475",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 55.1546873,
+  "Past_Exam_Scores": 90,
+  "Final_Exam_Score": 51,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dcb"
+  },
+  "Student_ID": "S301",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 60.27899042,
+  "Past_Exam_Scores": 83,
+  "Final_Exam_Score": 62,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dcc"
+  },
+  "Student_ID": "S230",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 61.45126955,
+  "Past_Exam_Scores": 51,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dcd"
+  },
+  "Student_ID": "S267",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 67.12621286,
+  "Past_Exam_Scores": 81,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dce"
+  },
+  "Student_ID": "S022",
+  "Study_Hours_per_Week": 11,
+  "Attendance_Rate": 63.73658985,
+  "Past_Exam_Scores": 84,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dcf"
+  },
+  "Student_ID": "S287",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 55.2123483,
+  "Past_Exam_Scores": 84,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dd0"
+  },
+  "Student_ID": "S087",
+  "Study_Hours_per_Week": 16,
+  "Attendance_Rate": 67.79957421,
+  "Past_Exam_Scores": 95,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dd1"
+  },
+  "Student_ID": "S231",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 77.14246553,
+  "Past_Exam_Scores": 63,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dd2"
+  },
+  "Student_ID": "S373",
+  "Study_Hours_per_Week": 31,
+  "Attendance_Rate": 90.34250745,
+  "Past_Exam_Scores": 56,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dd3"
+  },
+  "Student_ID": "S137",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 68.9386313,
+  "Past_Exam_Scores": 52,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dd4"
+  },
+  "Student_ID": "S179",
+  "Study_Hours_per_Week": 29,
+  "Attendance_Rate": 75.30519782,
+  "Past_Exam_Scores": 77,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dd5"
+  },
+  "Student_ID": "S217",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 79.41533379,
+  "Past_Exam_Scores": 94,
+  "Final_Exam_Score": 63,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dd6"
+  },
+  "Student_ID": "S260",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 50.61015362,
+  "Past_Exam_Scores": 64,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dd7"
+  },
+  "Student_ID": "S404",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 73.55327263,
+  "Past_Exam_Scores": 57,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dd8"
+  },
+  "Student_ID": "S348",
+  "Study_Hours_per_Week": 36,
+  "Attendance_Rate": 55.14907397,
+  "Past_Exam_Scores": 93,
+  "Final_Exam_Score": 61,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dd9"
+  },
+  "Student_ID": "S204",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 96.32247118,
+  "Past_Exam_Scores": 97,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dda"
+  },
+  "Student_ID": "S117",
+  "Study_Hours_per_Week": 18,
+  "Attendance_Rate": 67.70733354,
+  "Past_Exam_Scores": 75,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ddb"
+  },
+  "Student_ID": "S114",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 87.4808116,
+  "Past_Exam_Scores": 59,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ddc"
+  },
+  "Student_ID": "S456",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 76.99213895,
+  "Past_Exam_Scores": 81,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ddd"
+  },
+  "Student_ID": "S010",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 53.76795302,
+  "Past_Exam_Scores": 67,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dde"
+  },
+  "Student_ID": "S184",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 72.71339861,
+  "Past_Exam_Scores": 89,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ddf"
+  },
+  "Student_ID": "S153",
+  "Study_Hours_per_Week": 24,
+  "Attendance_Rate": 92.11570176,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467de0"
+  },
+  "Student_ID": "S196",
+  "Study_Hours_per_Week": 36,
+  "Attendance_Rate": 55.33496251,
+  "Past_Exam_Scores": 82,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467de1"
+  },
+  "Student_ID": "S422",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 53.35877,
+  "Past_Exam_Scores": 81,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467de2"
+  },
+  "Student_ID": "S401",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 55.7118963,
+  "Past_Exam_Scores": 82,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467de3"
+  },
+  "Student_ID": "S195",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 89.7144725,
+  "Past_Exam_Scores": 94,
+  "Final_Exam_Score": 66,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467de4"
+  },
+  "Student_ID": "S337",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 81.24879935,
+  "Past_Exam_Scores": 50,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467de5"
+  },
+  "Student_ID": "S318",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 65.57365856,
+  "Past_Exam_Scores": 63,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467de6"
+  },
+  "Student_ID": "S007",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 51.84109338,
+  "Past_Exam_Scores": 99,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467de7"
+  },
+  "Student_ID": "S490",
+  "Study_Hours_per_Week": 36,
+  "Attendance_Rate": 95.16819063,
+  "Past_Exam_Scores": 94,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467de8"
+  },
+  "Student_ID": "S420",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 90.75272142,
+  "Past_Exam_Scores": 59,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467de9"
+  },
+  "Student_ID": "S081",
+  "Study_Hours_per_Week": 17,
+  "Attendance_Rate": 91.08953184,
+  "Past_Exam_Scores": 53,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dea"
+  },
+  "Student_ID": "S378",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 66.19950306,
+  "Past_Exam_Scores": 58,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467deb"
+  },
+  "Student_ID": "S242",
+  "Study_Hours_per_Week": 27,
+  "Attendance_Rate": 87.620156,
+  "Past_Exam_Scores": 90,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dec"
+  },
+  "Student_ID": "S102",
+  "Study_Hours_per_Week": 19,
+  "Attendance_Rate": 99.31284979,
+  "Past_Exam_Scores": 60,
+  "Final_Exam_Score": 60,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467ded"
+  },
+  "Student_ID": "S110",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 57.3869546,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dee"
+  },
+  "Student_ID": "S309",
+  "Study_Hours_per_Week": 29,
+  "Attendance_Rate": 74.0418489,
+  "Past_Exam_Scores": 90,
+  "Final_Exam_Score": 62,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467def"
+  },
+  "Student_ID": "S193",
+  "Study_Hours_per_Week": 11,
+  "Attendance_Rate": 73.65831005,
+  "Past_Exam_Scores": 76,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467df0"
+  },
+  "Student_ID": "S388",
+  "Study_Hours_per_Week": 29,
+  "Attendance_Rate": 81.23806355,
+  "Past_Exam_Scores": 57,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467df1"
+  },
+  "Student_ID": "S123",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 92.03549929,
+  "Past_Exam_Scores": 54,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467df2"
+  },
+  "Student_ID": "S357",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 91.98944297,
+  "Past_Exam_Scores": 64,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467df3"
+  },
+  "Student_ID": "S256",
+  "Study_Hours_per_Week": 33,
+  "Attendance_Rate": 76.99303186,
+  "Past_Exam_Scores": 90,
+  "Final_Exam_Score": 69,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467df4"
+  },
+  "Student_ID": "S292",
+  "Study_Hours_per_Week": 18,
+  "Attendance_Rate": 58.27602552,
+  "Past_Exam_Scores": 82,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467df5"
+  },
+  "Student_ID": "S002",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 87.478915,
+  "Past_Exam_Scores": 56,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467df6"
+  },
+  "Student_ID": "S243",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 85.34902306,
+  "Past_Exam_Scores": 66,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467df7"
+  },
+  "Student_ID": "S167",
+  "Study_Hours_per_Week": 13,
+  "Attendance_Rate": 76.7518366,
+  "Past_Exam_Scores": 73,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467df8"
+  },
+  "Student_ID": "S471",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 53.8882672,
+  "Past_Exam_Scores": 55,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467df9"
+  },
+  "Student_ID": "S311",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 79.35341121,
+  "Past_Exam_Scores": 64,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dfa"
+  },
+  "Student_ID": "S425",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 86.01012908,
+  "Past_Exam_Scores": 51,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dfb"
+  },
+  "Student_ID": "S462",
+  "Study_Hours_per_Week": 18,
+  "Attendance_Rate": 81.16662755,
+  "Past_Exam_Scores": 99,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dfc"
+  },
+  "Student_ID": "S168",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 73.83097421,
+  "Past_Exam_Scores": 64,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dfd"
+  },
+  "Student_ID": "S306",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 93.17590703,
+  "Past_Exam_Scores": 66,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dfe"
+  },
+  "Student_ID": "S220",
+  "Study_Hours_per_Week": 23,
+  "Attendance_Rate": 85.68912274,
+  "Past_Exam_Scores": 72,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467dff"
+  },
+  "Student_ID": "S250",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 55.14580154,
+  "Past_Exam_Scores": 97,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e00"
+  },
+  "Student_ID": "S275",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 62.80077659,
+  "Past_Exam_Scores": 66,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e01"
+  },
+  "Student_ID": "S317",
+  "Study_Hours_per_Week": 16,
+  "Attendance_Rate": 51.69395801,
+  "Past_Exam_Scores": 96,
+  "Final_Exam_Score": 51,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e02"
+  },
+  "Student_ID": "S182",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 79.69415488,
+  "Past_Exam_Scores": 66,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e03"
+  },
+  "Student_ID": "S128",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 73.69849707,
+  "Past_Exam_Scores": 84,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e04"
+  },
+  "Student_ID": "S075",
+  "Study_Hours_per_Week": 24,
+  "Attendance_Rate": 70.58306072,
+  "Past_Exam_Scores": 98,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e05"
+  },
+  "Student_ID": "S245",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 57.15639928,
+  "Past_Exam_Scores": 80,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e06"
+  },
+  "Student_ID": "S131",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 73.97910509,
+  "Past_Exam_Scores": 91,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e07"
+  },
+  "Student_ID": "S107",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 76.5632877,
+  "Past_Exam_Scores": 53,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e08"
+  },
+  "Student_ID": "S062",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 52.29306332,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e09"
+  },
+  "Student_ID": "S161",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 50.26500032,
+  "Past_Exam_Scores": 64,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e0a"
+  },
+  "Student_ID": "S336",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 73.41159142,
+  "Past_Exam_Scores": 52,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e0b"
+  },
+  "Student_ID": "S266",
+  "Study_Hours_per_Week": 32,
+  "Attendance_Rate": 97.95373973,
+  "Past_Exam_Scores": 69,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e0c"
+  },
+  "Student_ID": "S129",
+  "Study_Hours_per_Week": 34,
+  "Attendance_Rate": 67.75521516,
+  "Past_Exam_Scores": 69,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e0d"
+  },
+  "Student_ID": "S485",
+  "Study_Hours_per_Week": 11,
+  "Attendance_Rate": 81.94746927,
+  "Past_Exam_Scores": 94,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e0e"
+  },
+  "Student_ID": "S037",
+  "Study_Hours_per_Week": 27,
+  "Attendance_Rate": 79.49779486,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e0f"
+  },
+  "Student_ID": "S100",
+  "Study_Hours_per_Week": 27,
+  "Attendance_Rate": 54.22585038,
+  "Past_Exam_Scores": 95,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e10"
+  },
+  "Student_ID": "S132",
+  "Study_Hours_per_Week": 30,
+  "Attendance_Rate": 79.20997424,
+  "Past_Exam_Scores": 84,
+  "Final_Exam_Score": 65,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e11"
+  },
+  "Student_ID": "S054",
+  "Study_Hours_per_Week": 28,
+  "Attendance_Rate": 64.89797258,
+  "Past_Exam_Scores": 67,
+  "Final_Exam_Score": 51,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e12"
+  },
+  "Student_ID": "S374",
+  "Study_Hours_per_Week": 16,
+  "Attendance_Rate": 98.13246593,
+  "Past_Exam_Scores": 66,
+  "Final_Exam_Score": 51,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e13"
+  },
+  "Student_ID": "S269",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 71.17984312,
+  "Past_Exam_Scores": 99,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e14"
+  },
+  "Student_ID": "S210",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 89.97685655,
+  "Past_Exam_Scores": 91,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e15"
+  },
+  "Student_ID": "S385",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 82.14627818,
+  "Past_Exam_Scores": 60,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e16"
+  },
+  "Student_ID": "S105",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 61.80582666,
+  "Past_Exam_Scores": 74,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e17"
+  },
+  "Student_ID": "S497",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 99.96767498,
+  "Past_Exam_Scores": 55,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e18"
+  },
+  "Student_ID": "S170",
+  "Study_Hours_per_Week": 39,
+  "Attendance_Rate": 60.25387801,
+  "Past_Exam_Scores": 57,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e19"
+  },
+  "Student_ID": "S199",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 70.42591465,
+  "Past_Exam_Scores": 68,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e1a"
+  },
+  "Student_ID": "S183",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 68.46152408,
+  "Past_Exam_Scores": 99,
+  "Final_Exam_Score": 67,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e1b"
+  },
+  "Student_ID": "S215",
+  "Study_Hours_per_Week": 20,
+  "Attendance_Rate": 95.39330652,
+  "Past_Exam_Scores": 54,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e1c"
+  },
+  "Student_ID": "S281",
+  "Study_Hours_per_Week": 29,
+  "Attendance_Rate": 51.15113024,
+  "Past_Exam_Scores": 99,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e1d"
+  },
+  "Student_ID": "S427",
+  "Study_Hours_per_Week": 24,
+  "Attendance_Rate": 57.00092693,
+  "Past_Exam_Scores": 82,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e1e"
+  },
+  "Student_ID": "S352",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 63.61509274,
+  "Past_Exam_Scores": 95,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e1f"
+  },
+  "Student_ID": "S272",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 95.59262044,
+  "Past_Exam_Scores": 66,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e20"
+  },
+  "Student_ID": "S443",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 88.54929628,
+  "Past_Exam_Scores": 83,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e21"
+  },
+  "Student_ID": "S500",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 65.64274283,
+  "Past_Exam_Scores": 71,
+  "Final_Exam_Score": 52,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e22"
+  },
+  "Student_ID": "S303",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 80.18607659,
+  "Past_Exam_Scores": 83,
+  "Final_Exam_Score": 67,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e23"
+  },
+  "Student_ID": "S363",
+  "Study_Hours_per_Week": 16,
+  "Attendance_Rate": 75.27539396,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e24"
+  },
+  "Student_ID": "S064",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 67.37067041,
+  "Past_Exam_Scores": 65,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e25"
+  },
+  "Student_ID": "S453",
+  "Study_Hours_per_Week": 13,
+  "Attendance_Rate": 56.75006387,
+  "Past_Exam_Scores": 58,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e26"
+  },
+  "Student_ID": "S005",
+  "Study_Hours_per_Week": 12,
+  "Attendance_Rate": 78.45407346,
+  "Past_Exam_Scores": 97,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e27"
+  },
+  "Student_ID": "S296",
+  "Study_Hours_per_Week": 16,
+  "Attendance_Rate": 65.5722132,
+  "Past_Exam_Scores": 81,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e28"
+  },
+  "Student_ID": "S320",
+  "Study_Hours_per_Week": 19,
+  "Attendance_Rate": 63.87935863,
+  "Past_Exam_Scores": 71,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e29"
+  },
+  "Student_ID": "S343",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 76.38238651,
+  "Past_Exam_Scores": 74,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e2a"
+  },
+  "Student_ID": "S171",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 98.39970333,
+  "Past_Exam_Scores": 54,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e2b"
+  },
+  "Student_ID": "S288",
+  "Study_Hours_per_Week": 26,
+  "Attendance_Rate": 92.0219816,
+  "Past_Exam_Scores": 61,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e2c"
+  },
+  "Student_ID": "S174",
+  "Study_Hours_per_Week": 19,
+  "Attendance_Rate": 86.81235918,
+  "Past_Exam_Scores": 67,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e2d"
+  },
+  "Student_ID": "S203",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 68.96142925,
+  "Past_Exam_Scores": 82,
+  "Final_Exam_Score": 58,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e2e"
+  },
+  "Student_ID": "S334",
+  "Study_Hours_per_Week": 18,
+  "Attendance_Rate": 89.9891011,
+  "Past_Exam_Scores": 68,
+  "Final_Exam_Score": 56,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e2f"
+  },
+  "Student_ID": "S098",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 50.12975122,
+  "Past_Exam_Scores": 55,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e30"
+  },
+  "Student_ID": "S135",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 79.32677173,
+  "Past_Exam_Scores": 66,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e31"
+  },
+  "Student_ID": "S212",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 59.32024934,
+  "Past_Exam_Scores": 76,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e32"
+  },
+  "Student_ID": "S134",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 77.8871133,
+  "Past_Exam_Scores": 67,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e33"
+  },
+  "Student_ID": "S483",
+  "Study_Hours_per_Week": 24,
+  "Attendance_Rate": 97.90853965,
+  "Past_Exam_Scores": 62,
+  "Final_Exam_Score": 53,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e34"
+  },
+  "Student_ID": "S176",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 85.36150478,
+  "Past_Exam_Scores": 86,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e35"
+  },
+  "Student_ID": "S004",
+  "Study_Hours_per_Week": 10,
+  "Attendance_Rate": 91.45821104,
+  "Past_Exam_Scores": 100,
+  "Final_Exam_Score": 59,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e36"
+  },
+  "Student_ID": "S109",
+  "Study_Hours_per_Week": 35,
+  "Attendance_Rate": 53.11706813,
+  "Past_Exam_Scores": 69,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e37"
+  },
+  "Student_ID": "S407",
+  "Study_Hours_per_Week": 15,
+  "Attendance_Rate": 75.62288279,
+  "Past_Exam_Scores": 100,
+  "Final_Exam_Score": 54,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e38"
+  },
+  "Student_ID": "S472",
+  "Study_Hours_per_Week": 37,
+  "Attendance_Rate": 50.11696953,
+  "Past_Exam_Scores": 71,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e39"
+  },
+  "Student_ID": "S442",
+  "Study_Hours_per_Week": 19,
+  "Attendance_Rate": 54.51684803,
+  "Past_Exam_Scores": 64,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e3a"
+  },
+  "Student_ID": "S149",
+  "Study_Hours_per_Week": 38,
+  "Attendance_Rate": 92.54087589,
+  "Past_Exam_Scores": 60,
+  "Final_Exam_Score": 64,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e3b"
+  },
+  "Student_ID": "S118",
+  "Study_Hours_per_Week": 21,
+  "Attendance_Rate": 69.85819163,
+  "Past_Exam_Scores": 90,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e3c"
+  },
+  "Student_ID": "S358",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 93.349688,
+  "Past_Exam_Scores": 76,
+  "Final_Exam_Score": 60,
+  "Pass_Fail": "Pass"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e3d"
+  },
+  "Student_ID": "S492",
+  "Study_Hours_per_Week": 14,
+  "Attendance_Rate": 84.65876057,
+  "Past_Exam_Scores": 78,
+  "Final_Exam_Score": 50,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e3e"
+  },
+  "Student_ID": "S473",
+  "Study_Hours_per_Week": 25,
+  "Attendance_Rate": 98.38496941,
+  "Past_Exam_Scores": 75,
+  "Final_Exam_Score": 57,
+  "Pass_Fail": "Fail"
+},
+{
+  "_id": {
+    "$oid": "67d08e567b52182550467e3f"
+  },
+  "Student_ID": "S046",
+  "Study_Hours_per_Week": 22,
+  "Attendance_Rate": 80.40439248,
+  "Past_Exam_Scores": 93,
+  "Final_Exam_Score": 55,
+  "Pass_Fail": "Fail"
+}]

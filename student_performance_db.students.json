@@ -1,0 +1,5000 @@
+[{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a57"
+  },
+  "Student_ID": "S147",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a58"
+  },
+  "Student_ID": "S136",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a59"
+  },
+  "Student_ID": "S209",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a5a"
+  },
+  "Student_ID": "S458",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a5b"
+  },
+  "Student_ID": "S078",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a5c"
+  },
+  "Student_ID": "S417",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a5d"
+  },
+  "Student_ID": "S302",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a5e"
+  },
+  "Student_ID": "S009",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a5f"
+  },
+  "Student_ID": "S044",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a60"
+  },
+  "Student_ID": "S331",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a61"
+  },
+  "Student_ID": "S451",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a62"
+  },
+  "Student_ID": "S059",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a63"
+  },
+  "Student_ID": "S315",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a64"
+  },
+  "Student_ID": "S295",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a65"
+  },
+  "Student_ID": "S141",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a66"
+  },
+  "Student_ID": "S274",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a67"
+  },
+  "Student_ID": "S327",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a68"
+  },
+  "Student_ID": "S413",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a69"
+  },
+  "Student_ID": "S452",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a6a"
+  },
+  "Student_ID": "S386",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a6b"
+  },
+  "Student_ID": "S079",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a6c"
+  },
+  "Student_ID": "S375",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a6d"
+  },
+  "Student_ID": "S384",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a6e"
+  },
+  "Student_ID": "S207",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a6f"
+  },
+  "Student_ID": "S071",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a70"
+  },
+  "Student_ID": "S489",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a71"
+  },
+  "Student_ID": "S066",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a72"
+  },
+  "Student_ID": "S018",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a73"
+  },
+  "Student_ID": "S015",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a74"
+  },
+  "Student_ID": "S155",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a75"
+  },
+  "Student_ID": "S159",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a76"
+  },
+  "Student_ID": "S368",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a77"
+  },
+  "Student_ID": "S104",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a78"
+  },
+  "Student_ID": "S329",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a79"
+  },
+  "Student_ID": "S397",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a7a"
+  },
+  "Student_ID": "S097",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a7b"
+  },
+  "Student_ID": "S112",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a7c"
+  },
+  "Student_ID": "S370",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a7d"
+  },
+  "Student_ID": "S463",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a7e"
+  },
+  "Student_ID": "S060",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a7f"
+  },
+  "Student_ID": "S041",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a80"
+  },
+  "Student_ID": "S216",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a81"
+  },
+  "Student_ID": "S430",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a82"
+  },
+  "Student_ID": "S377",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a83"
+  },
+  "Student_ID": "S187",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a84"
+  },
+  "Student_ID": "S233",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a85"
+  },
+  "Student_ID": "S166",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a86"
+  },
+  "Student_ID": "S419",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a87"
+  },
+  "Student_ID": "S033",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a88"
+  },
+  "Student_ID": "S185",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a89"
+  },
+  "Student_ID": "S057",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a8a"
+  },
+  "Student_ID": "S372",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a8b"
+  },
+  "Student_ID": "S395",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a8c"
+  },
+  "Student_ID": "S211",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a8d"
+  },
+  "Student_ID": "S361",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a8e"
+  },
+  "Student_ID": "S382",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a8f"
+  },
+  "Student_ID": "S389",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a90"
+  },
+  "Student_ID": "S387",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a91"
+  },
+  "Student_ID": "S380",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a92"
+  },
+  "Student_ID": "S020",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a93"
+  },
+  "Student_ID": "S445",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a94"
+  },
+  "Student_ID": "S099",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a95"
+  },
+  "Student_ID": "S448",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a96"
+  },
+  "Student_ID": "S408",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a97"
+  },
+  "Student_ID": "S089",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a98"
+  },
+  "Student_ID": "S049",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a99"
+  },
+  "Student_ID": "S194",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a9a"
+  },
+  "Student_ID": "S121",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a9b"
+  },
+  "Student_ID": "S362",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a9c"
+  },
+  "Student_ID": "S322",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a9d"
+  },
+  "Student_ID": "S499",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a9e"
+  },
+  "Student_ID": "S251",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467a9f"
+  },
+  "Student_ID": "S314",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aa0"
+  },
+  "Student_ID": "S200",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aa1"
+  },
+  "Student_ID": "S399",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aa2"
+  },
+  "Student_ID": "S072",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aa3"
+  },
+  "Student_ID": "S162",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aa4"
+  },
+  "Student_ID": "S440",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aa5"
+  },
+  "Student_ID": "S139",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aa6"
+  },
+  "Student_ID": "S449",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aa7"
+  },
+  "Student_ID": "S108",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aa8"
+  },
+  "Student_ID": "S476",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aa9"
+  },
+  "Student_ID": "S068",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aaa"
+  },
+  "Student_ID": "S178",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aab"
+  },
+  "Student_ID": "S406",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aac"
+  },
+  "Student_ID": "S340",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aad"
+  },
+  "Student_ID": "S379",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aae"
+  },
+  "Student_ID": "S246",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aaf"
+  },
+  "Student_ID": "S164",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ab0"
+  },
+  "Student_ID": "S008",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ab1"
+  },
+  "Student_ID": "S051",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ab2"
+  },
+  "Student_ID": "S142",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ab3"
+  },
+  "Student_ID": "S394",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ab4"
+  },
+  "Student_ID": "S045",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ab5"
+  },
+  "Student_ID": "S013",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ab6"
+  },
+  "Student_ID": "S085",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ab7"
+  },
+  "Student_ID": "S300",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ab8"
+  },
+  "Student_ID": "S438",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ab9"
+  },
+  "Student_ID": "S439",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aba"
+  },
+  "Student_ID": "S012",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467abb"
+  },
+  "Student_ID": "S366",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467abc"
+  },
+  "Student_ID": "S180",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467abd"
+  },
+  "Student_ID": "S486",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467abe"
+  },
+  "Student_ID": "S431",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467abf"
+  },
+  "Student_ID": "S160",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ac0"
+  },
+  "Student_ID": "S353",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ac1"
+  },
+  "Student_ID": "S265",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ac2"
+  },
+  "Student_ID": "S152",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ac3"
+  },
+  "Student_ID": "S259",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ac4"
+  },
+  "Student_ID": "S429",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ac5"
+  },
+  "Student_ID": "S014",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ac6"
+  },
+  "Student_ID": "S482",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ac7"
+  },
+  "Student_ID": "S297",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ac8"
+  },
+  "Student_ID": "S055",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ac9"
+  },
+  "Student_ID": "S280",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aca"
+  },
+  "Student_ID": "S034",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467acb"
+  },
+  "Student_ID": "S494",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467acc"
+  },
+  "Student_ID": "S163",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467acd"
+  },
+  "Student_ID": "S433",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ace"
+  },
+  "Student_ID": "S028",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467acf"
+  },
+  "Student_ID": "S328",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ad0"
+  },
+  "Student_ID": "S355",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ad1"
+  },
+  "Student_ID": "S225",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ad2"
+  },
+  "Student_ID": "S213",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ad3"
+  },
+  "Student_ID": "S435",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ad4"
+  },
+  "Student_ID": "S271",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ad5"
+  },
+  "Student_ID": "S365",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ad6"
+  },
+  "Student_ID": "S186",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ad7"
+  },
+  "Student_ID": "S284",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ad8"
+  },
+  "Student_ID": "S019",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ad9"
+  },
+  "Student_ID": "S143",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ada"
+  },
+  "Student_ID": "S299",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467adb"
+  },
+  "Student_ID": "S090",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467adc"
+  },
+  "Student_ID": "S214",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467add"
+  },
+  "Student_ID": "S369",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ade"
+  },
+  "Student_ID": "S402",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467adf"
+  },
+  "Student_ID": "S344",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ae0"
+  },
+  "Student_ID": "S480",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ae1"
+  },
+  "Student_ID": "S279",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ae2"
+  },
+  "Student_ID": "S262",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ae3"
+  },
+  "Student_ID": "S086",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ae4"
+  },
+  "Student_ID": "S061",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ae5"
+  },
+  "Student_ID": "S305",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ae6"
+  },
+  "Student_ID": "S414",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ae7"
+  },
+  "Student_ID": "S228",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ae8"
+  },
+  "Student_ID": "S335",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ae9"
+  },
+  "Student_ID": "S074",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aea"
+  },
+  "Student_ID": "S459",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aeb"
+  },
+  "Student_ID": "S493",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aec"
+  },
+  "Student_ID": "S367",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aed"
+  },
+  "Student_ID": "S403",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aee"
+  },
+  "Student_ID": "S035",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aef"
+  },
+  "Student_ID": "S119",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467af0"
+  },
+  "Student_ID": "S003",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467af1"
+  },
+  "Student_ID": "S261",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467af2"
+  },
+  "Student_ID": "S264",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467af3"
+  },
+  "Student_ID": "S478",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467af4"
+  },
+  "Student_ID": "S465",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467af5"
+  },
+  "Student_ID": "S326",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467af6"
+  },
+  "Student_ID": "S298",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467af7"
+  },
+  "Student_ID": "S253",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467af8"
+  },
+  "Student_ID": "S223",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467af9"
+  },
+  "Student_ID": "S189",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467afa"
+  },
+  "Student_ID": "S124",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467afb"
+  },
+  "Student_ID": "S024",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467afc"
+  },
+  "Student_ID": "S457",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467afd"
+  },
+  "Student_ID": "S487",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467afe"
+  },
+  "Student_ID": "S130",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467aff"
+  },
+  "Student_ID": "S330",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b00"
+  },
+  "Student_ID": "S381",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b01"
+  },
+  "Student_ID": "S101",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b02"
+  },
+  "Student_ID": "S016",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b03"
+  },
+  "Student_ID": "S023",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b04"
+  },
+  "Student_ID": "S091",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b05"
+  },
+  "Student_ID": "S032",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b06"
+  },
+  "Student_ID": "S043",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b07"
+  },
+  "Student_ID": "S277",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b08"
+  },
+  "Student_ID": "S268",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b09"
+  },
+  "Student_ID": "S021",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b0a"
+  },
+  "Student_ID": "S197",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b0b"
+  },
+  "Student_ID": "S291",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b0c"
+  },
+  "Student_ID": "S263",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b0d"
+  },
+  "Student_ID": "S342",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b0e"
+  },
+  "Student_ID": "S324",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b0f"
+  },
+  "Student_ID": "S120",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b10"
+  },
+  "Student_ID": "S333",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b11"
+  },
+  "Student_ID": "S077",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b12"
+  },
+  "Student_ID": "S092",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b13"
+  },
+  "Student_ID": "S339",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b14"
+  },
+  "Student_ID": "S084",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b15"
+  },
+  "Student_ID": "S258",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b16"
+  },
+  "Student_ID": "S477",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b17"
+  },
+  "Student_ID": "S229",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b18"
+  },
+  "Student_ID": "S237",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b19"
+  },
+  "Student_ID": "S047",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b1a"
+  },
+  "Student_ID": "S416",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b1b"
+  },
+  "Student_ID": "S428",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b1c"
+  },
+  "Student_ID": "S252",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b1d"
+  },
+  "Student_ID": "S222",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b1e"
+  },
+  "Student_ID": "S390",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b1f"
+  },
+  "Student_ID": "S042",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b20"
+  },
+  "Student_ID": "S332",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b21"
+  },
+  "Student_ID": "S235",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b22"
+  },
+  "Student_ID": "S345",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b23"
+  },
+  "Student_ID": "S190",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b24"
+  },
+  "Student_ID": "S349",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b25"
+  },
+  "Student_ID": "S409",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b26"
+  },
+  "Student_ID": "S341",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b27"
+  },
+  "Student_ID": "S156",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b28"
+  },
+  "Student_ID": "S241",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b29"
+  },
+  "Student_ID": "S011",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b2a"
+  },
+  "Student_ID": "S313",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b2b"
+  },
+  "Student_ID": "S126",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b2c"
+  },
+  "Student_ID": "S221",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b2d"
+  },
+  "Student_ID": "S192",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b2e"
+  },
+  "Student_ID": "S496",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b2f"
+  },
+  "Student_ID": "S017",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b30"
+  },
+  "Student_ID": "S175",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b31"
+  },
+  "Student_ID": "S232",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b32"
+  },
+  "Student_ID": "S138",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b33"
+  },
+  "Student_ID": "S254",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b34"
+  },
+  "Student_ID": "S469",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b35"
+  },
+  "Student_ID": "S027",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b36"
+  },
+  "Student_ID": "S360",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b37"
+  },
+  "Student_ID": "S432",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b38"
+  },
+  "Student_ID": "S038",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b39"
+  },
+  "Student_ID": "S154",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b3a"
+  },
+  "Student_ID": "S484",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b3b"
+  },
+  "Student_ID": "S146",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b3c"
+  },
+  "Student_ID": "S294",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b3d"
+  },
+  "Student_ID": "S283",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b3e"
+  },
+  "Student_ID": "S488",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b3f"
+  },
+  "Student_ID": "S434",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b40"
+  },
+  "Student_ID": "S039",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b41"
+  },
+  "Student_ID": "S498",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b42"
+  },
+  "Student_ID": "S234",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b43"
+  },
+  "Student_ID": "S073",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b44"
+  },
+  "Student_ID": "S031",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b45"
+  },
+  "Student_ID": "S125",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b46"
+  },
+  "Student_ID": "S410",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b47"
+  },
+  "Student_ID": "S053",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b48"
+  },
+  "Student_ID": "S351",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b49"
+  },
+  "Student_ID": "S391",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b4a"
+  },
+  "Student_ID": "S257",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b4b"
+  },
+  "Student_ID": "S181",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b4c"
+  },
+  "Student_ID": "S165",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b4d"
+  },
+  "Student_ID": "S461",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b4e"
+  },
+  "Student_ID": "S354",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b4f"
+  },
+  "Student_ID": "S446",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b50"
+  },
+  "Student_ID": "S447",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b51"
+  },
+  "Student_ID": "S455",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b52"
+  },
+  "Student_ID": "S278",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b53"
+  },
+  "Student_ID": "S094",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b54"
+  },
+  "Student_ID": "S226",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b55"
+  },
+  "Student_ID": "S069",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b56"
+  },
+  "Student_ID": "S450",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b57"
+  },
+  "Student_ID": "S026",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b58"
+  },
+  "Student_ID": "S224",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b59"
+  },
+  "Student_ID": "S356",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b5a"
+  },
+  "Student_ID": "S321",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b5b"
+  },
+  "Student_ID": "S188",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b5c"
+  },
+  "Student_ID": "S083",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b5d"
+  },
+  "Student_ID": "S240",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b5e"
+  },
+  "Student_ID": "S095",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b5f"
+  },
+  "Student_ID": "S289",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b60"
+  },
+  "Student_ID": "S115",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b61"
+  },
+  "Student_ID": "S325",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b62"
+  },
+  "Student_ID": "S172",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b63"
+  },
+  "Student_ID": "S441",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b64"
+  },
+  "Student_ID": "S198",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b65"
+  },
+  "Student_ID": "S103",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b66"
+  },
+  "Student_ID": "S282",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b67"
+  },
+  "Student_ID": "S116",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b68"
+  },
+  "Student_ID": "S436",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b69"
+  },
+  "Student_ID": "S460",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b6a"
+  },
+  "Student_ID": "S338",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b6b"
+  },
+  "Student_ID": "S244",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b6c"
+  },
+  "Student_ID": "S048",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b6d"
+  },
+  "Student_ID": "S006",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b6e"
+  },
+  "Student_ID": "S052",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b6f"
+  },
+  "Student_ID": "S470",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b70"
+  },
+  "Student_ID": "S316",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b71"
+  },
+  "Student_ID": "S191",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b72"
+  },
+  "Student_ID": "S347",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b73"
+  },
+  "Student_ID": "S127",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b74"
+  },
+  "Student_ID": "S151",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b75"
+  },
+  "Student_ID": "S157",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b76"
+  },
+  "Student_ID": "S285",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b77"
+  },
+  "Student_ID": "S310",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b78"
+  },
+  "Student_ID": "S270",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b79"
+  },
+  "Student_ID": "S219",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b7a"
+  },
+  "Student_ID": "S173",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b7b"
+  },
+  "Student_ID": "S145",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b7c"
+  },
+  "Student_ID": "S249",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b7d"
+  },
+  "Student_ID": "S304",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b7e"
+  },
+  "Student_ID": "S371",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b7f"
+  },
+  "Student_ID": "S140",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b80"
+  },
+  "Student_ID": "S423",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b81"
+  },
+  "Student_ID": "S001",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b82"
+  },
+  "Student_ID": "S412",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b83"
+  },
+  "Student_ID": "S056",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b84"
+  },
+  "Student_ID": "S030",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b85"
+  },
+  "Student_ID": "S113",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b86"
+  },
+  "Student_ID": "S150",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b87"
+  },
+  "Student_ID": "S218",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b88"
+  },
+  "Student_ID": "S111",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b89"
+  },
+  "Student_ID": "S248",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b8a"
+  },
+  "Student_ID": "S067",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b8b"
+  },
+  "Student_ID": "S481",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b8c"
+  },
+  "Student_ID": "S239",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b8d"
+  },
+  "Student_ID": "S238",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b8e"
+  },
+  "Student_ID": "S096",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b8f"
+  },
+  "Student_ID": "S474",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b90"
+  },
+  "Student_ID": "S495",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b91"
+  },
+  "Student_ID": "S106",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b92"
+  },
+  "Student_ID": "S319",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b93"
+  },
+  "Student_ID": "S088",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b94"
+  },
+  "Student_ID": "S286",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b95"
+  },
+  "Student_ID": "S158",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b96"
+  },
+  "Student_ID": "S466",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b97"
+  },
+  "Student_ID": "S444",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b98"
+  },
+  "Student_ID": "S376",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b99"
+  },
+  "Student_ID": "S415",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b9a"
+  },
+  "Student_ID": "S247",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b9b"
+  },
+  "Student_ID": "S392",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b9c"
+  },
+  "Student_ID": "S169",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b9d"
+  },
+  "Student_ID": "S398",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b9e"
+  },
+  "Student_ID": "S065",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467b9f"
+  },
+  "Student_ID": "S255",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ba0"
+  },
+  "Student_ID": "S293",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ba1"
+  },
+  "Student_ID": "S202",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ba2"
+  },
+  "Student_ID": "S491",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ba3"
+  },
+  "Student_ID": "S236",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ba4"
+  },
+  "Student_ID": "S364",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ba5"
+  },
+  "Student_ID": "S437",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ba6"
+  },
+  "Student_ID": "S063",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ba7"
+  },
+  "Student_ID": "S290",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ba8"
+  },
+  "Student_ID": "S464",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467ba9"
+  },
+  "Student_ID": "S201",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467baa"
+  },
+  "Student_ID": "S133",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bab"
+  },
+  "Student_ID": "S036",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bac"
+  },
+  "Student_ID": "S346",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bad"
+  },
+  "Student_ID": "S122",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bae"
+  },
+  "Student_ID": "S308",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467baf"
+  },
+  "Student_ID": "S418",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bb0"
+  },
+  "Student_ID": "S080",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bb1"
+  },
+  "Student_ID": "S208",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bb2"
+  },
+  "Student_ID": "S307",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bb3"
+  },
+  "Student_ID": "S029",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bb4"
+  },
+  "Student_ID": "S479",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bb5"
+  },
+  "Student_ID": "S177",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bb6"
+  },
+  "Student_ID": "S424",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bb7"
+  },
+  "Student_ID": "S400",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bb8"
+  },
+  "Student_ID": "S093",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bb9"
+  },
+  "Student_ID": "S076",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bba"
+  },
+  "Student_ID": "S468",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bbb"
+  },
+  "Student_ID": "S312",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bbc"
+  },
+  "Student_ID": "S148",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bbd"
+  },
+  "Student_ID": "S070",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bbe"
+  },
+  "Student_ID": "S040",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bbf"
+  },
+  "Student_ID": "S467",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bc0"
+  },
+  "Student_ID": "S276",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bc1"
+  },
+  "Student_ID": "S227",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bc2"
+  },
+  "Student_ID": "S393",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bc3"
+  },
+  "Student_ID": "S426",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bc4"
+  },
+  "Student_ID": "S396",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bc5"
+  },
+  "Student_ID": "S411",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bc6"
+  },
+  "Student_ID": "S405",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bc7"
+  },
+  "Student_ID": "S205",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bc8"
+  },
+  "Student_ID": "S050",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bc9"
+  },
+  "Student_ID": "S350",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bca"
+  },
+  "Student_ID": "S454",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bcb"
+  },
+  "Student_ID": "S025",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bcc"
+  },
+  "Student_ID": "S144",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bcd"
+  },
+  "Student_ID": "S273",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bce"
+  },
+  "Student_ID": "S421",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bcf"
+  },
+  "Student_ID": "S058",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bd0"
+  },
+  "Student_ID": "S359",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bd1"
+  },
+  "Student_ID": "S082",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bd2"
+  },
+  "Student_ID": "S206",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bd3"
+  },
+  "Student_ID": "S323",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bd4"
+  },
+  "Student_ID": "S383",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bd5"
+  },
+  "Student_ID": "S475",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bd6"
+  },
+  "Student_ID": "S301",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bd7"
+  },
+  "Student_ID": "S230",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bd8"
+  },
+  "Student_ID": "S267",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bd9"
+  },
+  "Student_ID": "S022",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bda"
+  },
+  "Student_ID": "S287",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bdb"
+  },
+  "Student_ID": "S087",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bdc"
+  },
+  "Student_ID": "S231",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bdd"
+  },
+  "Student_ID": "S373",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bde"
+  },
+  "Student_ID": "S137",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bdf"
+  },
+  "Student_ID": "S179",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467be0"
+  },
+  "Student_ID": "S217",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467be1"
+  },
+  "Student_ID": "S260",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467be2"
+  },
+  "Student_ID": "S404",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467be3"
+  },
+  "Student_ID": "S348",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467be4"
+  },
+  "Student_ID": "S204",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467be5"
+  },
+  "Student_ID": "S117",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467be6"
+  },
+  "Student_ID": "S114",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467be7"
+  },
+  "Student_ID": "S456",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467be8"
+  },
+  "Student_ID": "S010",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467be9"
+  },
+  "Student_ID": "S184",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bea"
+  },
+  "Student_ID": "S153",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467beb"
+  },
+  "Student_ID": "S196",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bec"
+  },
+  "Student_ID": "S422",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bed"
+  },
+  "Student_ID": "S401",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bee"
+  },
+  "Student_ID": "S195",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bef"
+  },
+  "Student_ID": "S337",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bf0"
+  },
+  "Student_ID": "S318",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bf1"
+  },
+  "Student_ID": "S007",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bf2"
+  },
+  "Student_ID": "S490",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bf3"
+  },
+  "Student_ID": "S420",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bf4"
+  },
+  "Student_ID": "S081",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bf5"
+  },
+  "Student_ID": "S378",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bf6"
+  },
+  "Student_ID": "S242",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bf7"
+  },
+  "Student_ID": "S102",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bf8"
+  },
+  "Student_ID": "S110",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bf9"
+  },
+  "Student_ID": "S309",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bfa"
+  },
+  "Student_ID": "S193",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bfb"
+  },
+  "Student_ID": "S388",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bfc"
+  },
+  "Student_ID": "S123",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bfd"
+  },
+  "Student_ID": "S357",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bfe"
+  },
+  "Student_ID": "S256",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467bff"
+  },
+  "Student_ID": "S292",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c00"
+  },
+  "Student_ID": "S002",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c01"
+  },
+  "Student_ID": "S243",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c02"
+  },
+  "Student_ID": "S167",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c03"
+  },
+  "Student_ID": "S471",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c04"
+  },
+  "Student_ID": "S311",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c05"
+  },
+  "Student_ID": "S425",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c06"
+  },
+  "Student_ID": "S462",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c07"
+  },
+  "Student_ID": "S168",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c08"
+  },
+  "Student_ID": "S306",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c09"
+  },
+  "Student_ID": "S220",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c0a"
+  },
+  "Student_ID": "S250",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c0b"
+  },
+  "Student_ID": "S275",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c0c"
+  },
+  "Student_ID": "S317",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c0d"
+  },
+  "Student_ID": "S182",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c0e"
+  },
+  "Student_ID": "S128",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c0f"
+  },
+  "Student_ID": "S075",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c10"
+  },
+  "Student_ID": "S245",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c11"
+  },
+  "Student_ID": "S131",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c12"
+  },
+  "Student_ID": "S107",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c13"
+  },
+  "Student_ID": "S062",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c14"
+  },
+  "Student_ID": "S161",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c15"
+  },
+  "Student_ID": "S336",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c16"
+  },
+  "Student_ID": "S266",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c17"
+  },
+  "Student_ID": "S129",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c18"
+  },
+  "Student_ID": "S485",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c19"
+  },
+  "Student_ID": "S037",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c1a"
+  },
+  "Student_ID": "S100",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c1b"
+  },
+  "Student_ID": "S132",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c1c"
+  },
+  "Student_ID": "S054",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c1d"
+  },
+  "Student_ID": "S374",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c1e"
+  },
+  "Student_ID": "S269",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c1f"
+  },
+  "Student_ID": "S210",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c20"
+  },
+  "Student_ID": "S385",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c21"
+  },
+  "Student_ID": "S105",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c22"
+  },
+  "Student_ID": "S497",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c23"
+  },
+  "Student_ID": "S170",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c24"
+  },
+  "Student_ID": "S199",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c25"
+  },
+  "Student_ID": "S183",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c26"
+  },
+  "Student_ID": "S215",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c27"
+  },
+  "Student_ID": "S281",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c28"
+  },
+  "Student_ID": "S427",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c29"
+  },
+  "Student_ID": "S352",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c2a"
+  },
+  "Student_ID": "S272",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c2b"
+  },
+  "Student_ID": "S443",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c2c"
+  },
+  "Student_ID": "S500",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c2d"
+  },
+  "Student_ID": "S303",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c2e"
+  },
+  "Student_ID": "S363",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c2f"
+  },
+  "Student_ID": "S064",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c30"
+  },
+  "Student_ID": "S453",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c31"
+  },
+  "Student_ID": "S005",
+  "Gender": "Male",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c32"
+  },
+  "Student_ID": "S296",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c33"
+  },
+  "Student_ID": "S320",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c34"
+  },
+  "Student_ID": "S343",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c35"
+  },
+  "Student_ID": "S171",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c36"
+  },
+  "Student_ID": "S288",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c37"
+  },
+  "Student_ID": "S174",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c38"
+  },
+  "Student_ID": "S203",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c39"
+  },
+  "Student_ID": "S334",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c3a"
+  },
+  "Student_ID": "S098",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c3b"
+  },
+  "Student_ID": "S135",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c3c"
+  },
+  "Student_ID": "S212",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c3d"
+  },
+  "Student_ID": "S134",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c3e"
+  },
+  "Student_ID": "S483",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c3f"
+  },
+  "Student_ID": "S176",
+  "Gender": "Female",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c40"
+  },
+  "Student_ID": "S004",
+  "Gender": "Male",
+  "Parental_Education_Level": "High School",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c41"
+  },
+  "Student_ID": "S109",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c42"
+  },
+  "Student_ID": "S407",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c43"
+  },
+  "Student_ID": "S472",
+  "Gender": "Female",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c44"
+  },
+  "Student_ID": "S442",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c45"
+  },
+  "Student_ID": "S149",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "Yes"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c46"
+  },
+  "Student_ID": "S118",
+  "Gender": "Female",
+  "Parental_Education_Level": "Masters",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c47"
+  },
+  "Student_ID": "S358",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "No",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c48"
+  },
+  "Student_ID": "S492",
+  "Gender": "Male",
+  "Parental_Education_Level": "PhD",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c49"
+  },
+  "Student_ID": "S473",
+  "Gender": "Male",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+},
+{
+  "_id": {
+    "$oid": "67d08e3d7b52182550467c4a"
+  },
+  "Student_ID": "S046",
+  "Gender": "Female",
+  "Parental_Education_Level": "Bachelors",
+  "Internet_Access_at_Home": "Yes",
+  "Extracurricular_Activities": "No"
+}]
