@@ -2,11 +2,9 @@ CREATE DATABASE IF NOT EXISTS student_performance_db;
 USE student_performance_db;
 
 -- Drop existing tables to allow recreation
-DROP TABLE IF EXISTS Performance_Logs;
 DROP TABLE IF EXISTS Performance;
 DROP TABLE IF EXISTS Students;
 DROP TABLE IF EXISTS Parental_Education;
-DROP TABLE IF EXISTS Temp_Students;
 
 -- Create the Parental_Education table
 CREATE TABLE Parental_Education (
