@@ -76,4 +76,24 @@ def read_student(student_id: str):
     finally:
         cursor.close()
         conn.close()
+@app.put("/students/{student_id}", response_model=dict)
+def update_student(student_id: str, student: Student):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    try:
+        cursor.execute(
+            "UPDATE Students SET Gender=%s, Education_ID=%s, Internet_Access_at_Home=%s, Extracurricular_Activities=%s WHERE Student_ID=%s",
+            (student.Gender, student.Parental_Education_Level, student.Internet_Access_at_Home, 
+             student.Extracurricular_Activities, student_id)
+        )
+        conn.commit()
+        return {"message": "Student updated successfully!"}
+
+    except mysql.connector.Error as e:
+        conn.rollback()
+        raise HTTPException(status_code=400, detail=str(e))
+    finally:
+        cursor.close()
+        conn.close()
         
