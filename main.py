@@ -76,6 +76,7 @@ def read_student(student_id: str):
     finally:
         cursor.close()
         conn.close()
+        
 @app.put("/students/{student_id}", response_model=dict)
 def update_student(student_id: str, student: Student):
     conn = get_db_connection()
@@ -96,4 +97,24 @@ def update_student(student_id: str, student: Student):
     finally:
         cursor.close()
         conn.close()
+
+@app.delete("/students/{student_id}", response_model=dict)
+def delete_student(student_id: str):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    try:
+        cursor.execute("DELETE FROM Students WHERE Student_ID = %s", (student_id,))
+        conn.commit()
+        return {"message": "Student deleted successfully!"}
+
+    except mysql.connector.Error as e:
+        conn.rollback()
+        raise HTTPException(status_code=400, detail=str(e))
+    finally:
+        cursor.close()
+        conn.close()
+
+
+
         
