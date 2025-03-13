@@ -108,11 +108,13 @@ This project implements a web-based system for managing student data and predict
 *   **Preprocessing:** The data is preprocessed using `StandardScaler` for numeric columns and `OneHotEncoder` for categorical columns.
 
 ## API Endpoints
-
+*   **Student Management:**
 *   **`POST /students/`:** Create a new student.
 *   **`GET /students/{student_id}`:** Get a student's details.
 *   **`PUT /students/{student_id}`:** Update a student's information.
 *   **`DELETE /students/{student_id}`:** Delete a student.
+
+*   **Performance Tracking:**
 *   **`POST /performance/`:** Create a new performance record.
 *   **`GET /performance/{student_id}`:** Get a performance record.
 *   **`PUT /performance/{student_id}`:** Update a performance record.
@@ -125,4 +127,4 @@ This project implements a web-based system for managing student data and predict
 
 ## License
 
-[MIT License](LICENSE) (if you have one, add the appropriate license).
+This project is licensed under the MIT License
