@@ -41,7 +41,6 @@ def create_student(student: Student):
     cursor = conn.cursor()
 
     try:
-        # Validate Education_ID exists
         if student.Parental_Education_Level is not None:
             cursor.execute("SELECT COUNT(*) FROM Parental_Education WHERE Education_ID = %s", 
                            (student.Parental_Education_Level,))
@@ -70,7 +69,7 @@ def read_student(student_id: str):
 
     try:
         cursor.execute(
-            "SELECT Student_ID, Gender, Education_ID as Parental_Education_Level, Internet_Access_at_Home, Extracurricular_Activities FROM Students WHERE Student_ID = %s",
+            "SELECT Student_ID, Gender, CAST(Education_ID AS CHAR) AS Parental_Education_Level, Internet_Access_at_Home, Extracurricular_Activities FROM Students WHERE Student_ID = %s",
             (student_id,))
         student = cursor.fetchone()
         if not student:
@@ -135,19 +134,26 @@ def create_performance(performance: Performance):
         )
         conn.commit()
 
-        # Retrieve computed Pass_Fail
-        cursor.execute("SELECT Pass_Fail FROM Performance WHERE Student_ID = %s", 
-                       (performance.Student_ID,))
-        pass_fail = cursor.fetchone()[0]
+       
+        cursor.execute("SELECT Pass_Fail FROM Performance WHERE Student_ID = %s", (performance.Student_ID,))
+        pass_fail = cursor.fetchone()
 
-        return {"message": "Performance added successfully!", "Pass_Fail": pass_fail}
+        if pass_fail:
+            pass_fail_value = pass_fail[0]
+        else:
+            pass_fail_value = "Unknown"
+
+        return {"message": "Performance added successfully!", "Pass_Fail": pass_fail_value}
 
     except mysql.connector.Error as e:
         conn.rollback()
         raise HTTPException(status_code=400, detail=str(e))
     finally:
+     
+        cursor.fetchall() if cursor.with_rows else None
         cursor.close()
         conn.close()
+
 
 @app.get("/performance/{student_id}")
 def read_performance(student_id: str):
@@ -157,6 +163,10 @@ def read_performance(student_id: str):
     try:
         cursor.execute("SELECT * FROM Performance WHERE Student_ID = %s", (student_id,))
         performance = cursor.fetchone()
+
+      
+        cursor.fetchall() if cursor.with_rows else None
+
         if not performance:
             raise HTTPException(status_code=404, detail="Performance record not found")
         return performance
@@ -180,16 +190,22 @@ def update_performance(student_id: str, performance: Performance):
         )
         conn.commit()
 
-        # Retrieve updated Pass_Fail
+    
         cursor.execute("SELECT Pass_Fail FROM Performance WHERE Student_ID = %s", (student_id,))
-        pass_fail = cursor.fetchone()[0]
+        pass_fail = cursor.fetchone()
 
-        return {"message": "Performance record updated successfully!", "Pass_Fail": pass_fail}
+        if pass_fail:
+            pass_fail_value = pass_fail[0]
+        else:
+            pass_fail_value = "Unknown"
+
+        return {"message": "Performance record updated successfully!", "Pass_Fail": pass_fail_value}
 
     except mysql.connector.Error as e:
         conn.rollback()
         raise HTTPException(status_code=400, detail=str(e))
     finally:
+        cursor.fetchall() if cursor.with_rows else None
         cursor.close()
         conn.close()
 
@@ -206,24 +222,6 @@ def delete_performance(student_id: str):
     except mysql.connector.Error as e:
         conn.rollback()
         raise HTTPException(status_code=400, detail=str(e))
-    finally:
-        cursor.close()
-        conn.close()
-
-# API to get average final exam score
-@app.get("/performance/average_final_score")
-def calculate_average_final_score():
-    conn = get_db_connection()
-    cursor = conn.cursor()
-
-    try:
-        cursor.callproc("Calculate_Avg_Final_Score")
-        for result in cursor.stored_results():
-            avg_score = result.fetchone()[0]
-            return {"Average_Final_Score": avg_score}
-
-    except mysql.connector.Error as e:
-        raise HTTPException(status_code=500, detail=str(e))
     finally:
         cursor.close()
         conn.close()
