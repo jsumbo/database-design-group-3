@@ -1,18 +1,24 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import mysql.connector
+import os
+from dotenv import load_dotenv
 from typing import List, Optional
+
+# Load environment variables
+load_dotenv()
 
 app = FastAPI()
 
-# Database connection
+# Database connection function using .env variables
 def get_db_connection():
     return mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="Marion@2020",
-        database="student_performance_db"
+        host=os.getenv("DB_HOST"),
+        user=os.getenv("DB_USER"),
+        password=os.getenv("DB_PASSWORD"),
+        database=os.getenv("DB_NAME")
     )
+
 # Pydantic Models
 class Student(BaseModel):
     Student_ID: str
