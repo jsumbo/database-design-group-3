@@ -115,6 +115,117 @@ def delete_student(student_id: str):
         cursor.close()
         conn.close()
 
+# CRUD for Performance
+@app.post("/performance/", response_model=dict)
+def create_performance(performance: Performance):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    try:
+        cursor.execute(
+            "INSERT INTO Performance (Student_ID, Study_Hours_per_Week, Attendance_Rate, Past_Exam_Scores, Final_Exam_Score) VALUES (%s, %s, %s, %s, %s)",
+            (performance.Student_ID, performance.Study_Hours_per_Week, performance.Attendance_Rate, 
+             performance.Past_Exam_Scores, performance.Final_Exam_Score)
+        )
+        conn.commit()
+
+        # Retrieve computed Pass_Fail
+        cursor.execute("SELECT Pass_Fail FROM Performance WHERE Student_ID = %s", 
+                       (performance.Student_ID,))
+        pass_fail = cursor.fetchone()[0]
+
+        return {"message": "Performance added successfully!", "Pass_Fail": pass_fail}
+
+    except mysql.connector.Error as e:
+        conn.rollback()
+        raise HTTPException(status_code=400, detail=str(e))
+    finally:
+        cursor.close()
+        conn.close()
+
+@app.get("/performance/{student_id}")
+def read_performance(student_id: str):
+    conn = get_db_connection()
+    cursor = conn.cursor(dictionary=True)
+
+    try:
+        cursor.execute("SELECT * FROM Performance WHERE Student_ID = %s", (student_id,))
+        performance = cursor.fetchone()
+        if not performance:
+            raise HTTPException(status_code=404, detail="Performance record not found")
+        return performance
+
+    except mysql.connector.Error as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    finally:
+        cursor.close()
+        conn.close()
+
+@app.put("/performance/{student_id}", response_model=dict)
+def update_performance(student_id: str, performance: Performance):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    try:
+        cursor.execute(
+            "UPDATE Performance SET Study_Hours_per_Week=%s, Attendance_Rate=%s, Past_Exam_Scores=%s, Final_Exam_Score=%s WHERE Student_ID=%s",
+            (performance.Study_Hours_per_Week, performance.Attendance_Rate, performance.Past_Exam_Scores, 
+             performance.Final_Exam_Score, student_id)
+        )
+        conn.commit()
+
+        # Retrieve updated Pass_Fail
+        cursor.execute("SELECT Pass_Fail FROM Performance WHERE Student_ID = %s", (student_id,))
+        pass_fail = cursor.fetchone()[0]
+
+        return {"message": "Performance record updated successfully!", "Pass_Fail": pass_fail}
+
+    except mysql.connector.Error as e:
+        conn.rollback()
+        raise HTTPException(status_code=400, detail=str(e))
+    finally:
+        cursor.close()
+        conn.close()
+
+@app.delete("/performance/{student_id}", response_model=dict)
+def delete_performance(student_id: str):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    try:
+        cursor.execute("DELETE FROM Performance WHERE Student_ID = %s", (student_id,))
+        conn.commit()
+        return {"message": "Performance record deleted successfully!"}
+
+    except mysql.connector.Error as e:
+        conn.rollback()
+        raise HTTPException(status_code=400, detail=str(e))
+    finally:
+        cursor.close()
+        conn.close()
+
+# API to get average final exam score
+@app.get("/performance/average_final_score")
+def calculate_average_final_score():
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    try:
+        cursor.callproc("Calculate_Avg_Final_Score")
+        for result in cursor.stored_results():
+            avg_score = result.fetchone()[0]
+            return {"Average_Final_Score": avg_score}
+
+    except mysql.connector.Error as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    finally:
+        cursor.close()
+        conn.close()
+
+# Run FastAPI
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)
 
 
         
