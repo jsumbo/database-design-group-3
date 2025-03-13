@@ -232,6 +232,3 @@ def calculate_average_final_score():
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
-
-
-        
