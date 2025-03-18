@@ -1,16 +1,12 @@
 import os
 import pandas as pd
 import mysql.connector
-from dotenv import load_dotenv
 
-# Load environment variables from .env
-load_dotenv()
-
-# Get database credentials
-DB_HOST = os.getenv("DB_HOST")
-DB_USER = os.getenv("DB_USER")
-DB_PASSWORD = os.getenv("DB_PASSWORD")
-DB_NAME = os.getenv("DB_NAME")
+# Database credentials
+DB_HOST = "localhost"  
+DB_USER = "root"      
+DB_PASSWORD = "password"  
+DB_NAME = "student_db"    
 
 # Connect to MySQL database
 try:
@@ -43,19 +39,19 @@ if not expected_columns.issubset(df.columns):
 for _, row in df.iterrows():
     cursor.execute(
         """
-        INSERT INTO Students (Student_ID, Gender, Internet_Access_at_Home, Extracurricular_Activities)
-        VALUES (%s, %s, %s, %s)
-        ON DUPLICATE KEY UPDATE Gender=VALUES(Gender),
-                                Internet_Access_at_Home=VALUES(Internet_Access_at_Home),
-                                Extracurricular_Activities=VALUES(Extracurricular_Activities)
+        INSERT INTO Performance (Student_ID, Study_Hours_per_Week, Attendance_Rate, Past_Exam_Scores, Final_Exam_Score, Pass_Fail)
+        VALUES (%s, %s, %s, %s, %s, %s)
         """,
         (
             row["Student_ID"],
-            row["Gender"],
-            row["Internet_Access_at_Home"],
-            row["Extracurricular_Activities"]
+            row["Study_Hours_per_Week"],
+            row["Attendance_Rate"],
+            row["Past_Exam_Scores"],
+            row["Final_Exam_Score"],
+            row["Pass_Fail"]
         )
     )
+
 db.commit()
 
 # Close connection
